@@ -20,6 +20,7 @@ import Archive from './views/archive.vue'
 import Projects from './views/projects.vue'
 import Events from './views/events.vue'
 import History from './views/history.vue'
+import Team from './views/team.vue'
 library.add(fab)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
@@ -36,7 +37,8 @@ const routes =  {
   '/research/projects':Projects,
   '/events/scientificEvents':Events,
   '/events/socialEvents':Events,
-  '/aboutUs/history':History
+  '/aboutUs/history':History,
+  '/aboutUs/team':Team
 
 }
 const app = new Vue({
