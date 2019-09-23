@@ -1,7 +1,7 @@
 <template>
   <div class="container fill">
     <div class="row mt-5">
-      <b-button class="col-sm-3 col-lg-1 ml-3"  v-on:click="showAll()" variant="outline-primary">ALL</b-button>
+      <b-button class="col-sm-3 col-lg-1 ml-3" v-on:click="showAll()" variant="outline-primary">ALL</b-button>
       <b-button class="col-sm-3 col-lg-1 ml-3" v-on:click="showNews()" variant="outline-primary">NEWS</b-button>
       <b-button class="col-sm-3 col-lg-1 ml-3" v-on:click="showEvents()" variant="outline-primary">EVENTS</b-button>
 

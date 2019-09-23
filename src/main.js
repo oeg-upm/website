@@ -17,6 +17,7 @@ import singlenewview from './views/singleNewView.vue'
 import awards from './views/awards.vue'
 import award from './views/award.vue'
 import Archive from './views/archive.vue'
+import Projects from './views/projects.vue'
 library.add(fab)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
@@ -30,7 +31,8 @@ const routes =  {
   '/comunication/new':singlenewview,
   '/comunication/awards':awards,
   '/comunication/award':award,
-  '/comunication/archive':Archive
+  '/comunication/archive':Archive,
+  '/research/projects':Projects
 }
 const app = new Vue({
   el: '#app',
