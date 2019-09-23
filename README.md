@@ -1,6 +1,29 @@
-oeg-upm/website
-================
+# oeg-web
 
-Official repository with all source code to generate www.oeg-upm.net.
+## Project setup
+```
+npm install
+```
 
-Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
