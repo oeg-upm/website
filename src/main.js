@@ -21,6 +21,11 @@ import Projects from './views/projects.vue'
 import Events from './views/events.vue'
 import History from './views/history.vue'
 import Team from './views/team.vue'
+import Worker from './views/worker.vue'
+import ResearchAreas from './views/researchareas.vue'
+import Area from './views/area.vue'
+import Education from './views/education.vue'
+import Resources from './views/resources.vue'
 library.add(fab)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
@@ -38,7 +43,19 @@ const routes =  {
   '/events/scientificEvents':Events,
   '/events/socialEvents':Events,
   '/aboutUs/history':History,
-  '/aboutUs/team':Team
+  '/aboutUs/team':Team,
+  '/aboutUs/team/worker':Worker,
+  '/research/research-areas':ResearchAreas,
+  '/research/research-areas/area':Area,
+  '/education/oficial':Education,
+  '/education/mooc':Education,
+  '/education/profissional':Education,
+  '/resources/ontologies':Resources,
+  '/resources/linkedData':Resources,
+  '/resources/technology':Resources,
+  '/resources/services':Resources,
+
+
 
 }
 const app = new Vue({

@@ -16,7 +16,7 @@
         :h-ref="socialLink.link"
         >
         <span v-if="socialLink.icon == '' " class="text-white">{{socialLink.name}}</span>
-        <font-awesome-icon class="text-white" :icon="[socialLink.type, socialLink.icon]" size="lg" />
+        <font-awesome-icon v-else class="text-white" :icon="[socialLink.type, socialLink.icon]" size="lg" />
         </b-nav-item>
       </b-nav>
     </div>
