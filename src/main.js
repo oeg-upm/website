@@ -26,7 +26,13 @@ import ResearchAreas from './views/researchareas.vue'
 import Area from './views/area.vue'
 import Education from './views/education.vue'
 import Resources from './views/resources.vue'
+import JoinUs from './views/joinus.vue'
+import JoinUsCategory from './views/joinuscategory.vue'
+import Project from './views/project.vue'
+import UseCases from './views/usecases.vue'
 library.add(fab)
+
+
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 Vue.use(BootstrapVue);
@@ -54,6 +60,10 @@ const routes =  {
   '/resources/linkedData':Resources,
   '/resources/technology':Resources,
   '/resources/services':Resources,
+  '/joinus':JoinUs,
+  '/joinus/category':JoinUsCategory,
+  '/research/projects/project':Project,
+  '/useCases':UseCases
 
 
 

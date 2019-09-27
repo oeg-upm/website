@@ -5,12 +5,13 @@
     <b-navbar-brand><img src="../assets/images/log.png" class="img-fluid" alt=""></b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
     <b-collapse id="nav-collapse" is-nav>
-      <b-navbar-nav>
+      <b-navbar-nav class="d-flex flex-wrap align-items-center">
         <b-nav-item href="/">Home</b-nav-item>
         <b-nav-item-dropdown v-for="element in elements" :key="element.name" :text="element.name" class="nav-item dropdown">
           <b-dropdown-item v-for="link in element.links" :key="link.name" :href="link.link">{{link.name}}</b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-nav-item>Use Cases</b-nav-item>
+        <b-nav-item href="/useCases">Use Cases</b-nav-item>
+        <b-nav-item href="/joinus"><b-button size="" variant="outline-secondary">Join Us!</b-button></b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

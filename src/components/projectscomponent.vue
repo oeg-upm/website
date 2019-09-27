@@ -2,9 +2,9 @@
     <div class="container" >
         <h1 class="mt-5">List of Projects</h1>
         <div class="row">
-            <b-button class="col-sm-3 col-lg-2 ml-3" v-on:click="showAll()" variant="outline-primary">View All</b-button>
-            <b-button class="col-sm-3 col-lg-2 ml-3" v-on:click="showCurrent()" variant="outline-primary">Current Projects</b-button>
-            <b-button class="col-sm-3 col-lg-2 ml-3" v-on:click="showCompleted()" variant="outline-primary">Completed Projects</b-button>
+            <b-button class="col-sm-3 col-lg-2 m-3" v-on:click="showAll()" variant="outline-primary">View All</b-button>
+            <b-button class="col-sm-3 col-lg-2 m-3" v-on:click="showCurrent()" variant="outline-primary">Current Projects</b-button>
+            <b-button class="col-sm-3 col-lg-2 m-3" v-on:click="showCompleted()" variant="outline-primary">Completed Projects</b-button>
 
         </div>
         <div  v-for="element in elements" :key="element.id" class="mt-5 ">
