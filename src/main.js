@@ -30,6 +30,7 @@ import JoinUsCategory from './views/joinuscategory.vue'
 import Project from './views/project.vue'
 import UseCases from './views/usecases.vue'
 import AdminPanel from './views/adminPanel.vue'
+import NewsAdmin from './views/adminNew.vue'
 library.add(fab)
 
 
@@ -63,7 +64,8 @@ const routes =  {
   '/joinus/category':JoinUsCategory,
   '/research/projects/project':Project,
   '/useCases':UseCases,
-  '/admin':AdminPanel
+  '/admin':AdminPanel,
+  '/admin/news':NewsAdmin
 
 
 

@@ -1,13 +1,17 @@
 const express = require('express');
 const expressGraphQl = require('express-graphql');
 const {buildSchema} = require('graphql')
+const cors = require('cors');
+const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3333;
-const test = require('./routes/test.route.js')
-app.use("/test", test);
-app.get("/", (req,res) => {
-	res.send("Working");
-})
+const TestRouter = require('./routes/test.route.js')
+const NewRouter = require('./routes/new.route.js');
+
+app.use(cors());
+app.use(bodyParser.urlencoded({extended:false}));
+app.use("/test", TestRouter);
+app.use("/new", NewRouter)
 app.listen(PORT, function(){
 console.log("App listening in port " + PORT);
 });

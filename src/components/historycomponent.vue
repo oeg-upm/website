@@ -4,16 +4,16 @@
     <p class="mt-5">{{history}}</p>
     <div class="row mt-5">
         <div class="col-sm-12 col-lg-4">
-            <h4>Directors</h4>
+            <h4>Directors:</h4>
             <b-list-group flush>
                 <b-list-group-item v-for="director in directors" :key="director">{{director}}</b-list-group-item>
             </b-list-group>
         </div>
         <div class="col-sm-12 col-lg-4">
-            <h4>{{researchers}}+ Researchers</h4>
+            <h4>Researchers: +{{researchers}}</h4>
         </div>
         <div class="col-sm-12 col-lg-4">
-            <h4>{{collaborators}}+ Collaborators</h4>
+            <h4>Collaborators: +{{collaborators}}</h4>
         </div>
     </div>
   </div>
