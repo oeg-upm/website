@@ -17,11 +17,8 @@ const client = new Client({ context, queryEngine: new QueryEngineSparqlEndpoint(
 // Define a query
 const employeds = `
   query {
-  	<https://w3id.org/transmodel/employeds/0>
+		id
 		employedname
-		employedrole
-
-	  
   }`;
 const news = `
   {

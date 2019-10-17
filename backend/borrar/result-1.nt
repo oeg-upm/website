@@ -1,0 +1,49 @@
+<https://w3id.org/transmodel/employeds/0> <http://schema.org/employed_role> "Student".
+<https://w3id.org/transmodel/employeds/0> <http://schema.org/employed_bio> "Bio: blablabla".
+<https://w3id.org/transmodel/employeds/0> <http://schema.org/employed_name> "Luis Pozo".
+<https://w3id.org/transmodel/employeds/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/employed>.
+<https://w3id.org/transmodel/employeds/0> <http://schema.org/employed_img> "https://picsum.photos/300/200".
+<https://w3id.org/transmodel/employeds/1> <http://schema.org/employed_role> "Student".
+<https://w3id.org/transmodel/employeds/1> <http://schema.org/employed_bio> "BIO: BLABLABLA".
+<https://w3id.org/transmodel/employeds/1> <http://schema.org/employed_name> "Juan Gonzalez".
+<https://w3id.org/transmodel/employeds/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/employed>.
+<https://w3id.org/transmodel/employeds/1> <http://schema.org/employed_img> "https://picsum.photos/300/200".
+<https://w3id.org/transmodel/employeds/2> <http://schema.org/employed_role> "PhD".
+<https://w3id.org/transmodel/employeds/2> <http://schema.org/employed_bio> "BIO:The BIO".
+<https://w3id.org/transmodel/employeds/2> <http://schema.org/employed_name> "Pepe Peo".
+<https://w3id.org/transmodel/employeds/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/employed>.
+<https://w3id.org/transmodel/employeds/2> <http://schema.org/employed_img> "https://picsum.photos/300/200".
+<https://w3id.org/transmodel/events/1> <http://schema.org/event_type> "scientific".
+<https://w3id.org/transmodel/events/1> <http://schema.org/event_start_date> "03/01/2020".
+<https://w3id.org/transmodel/events/1> <http://schema.org/event_description> "The First Event of the year".
+<https://w3id.org/transmodel/events/1> <http://schema.org/event_name> "FirstEvent".
+<https://w3id.org/transmodel/events/1> <http://schema.org/event_end_date> "03/01/2020".
+<https://w3id.org/transmodel/events/2> <http://schema.org/event_type> "social".
+<https://w3id.org/transmodel/events/2> <http://schema.org/event_start_date> "15/03/2020".
+<https://w3id.org/transmodel/events/2> <http://schema.org/event_description> "The Second Event of the year".
+<https://w3id.org/transmodel/events/2> <http://schema.org/event_name> "SecondEvent".
+<https://w3id.org/transmodel/events/2> <http://schema.org/event_end_date> "17/03/2020".
+<https://w3id.org/transmodel/award/1> <http://schema.org/award_img> "https://picsum.photos/id/259/500/300".
+<https://w3id.org/transmodel/award/1> <http://schema.org/award_date> "08/05/2019".
+<https://w3id.org/transmodel/award/1> <http://schema.org/winner_id> "08/05/2019".
+<https://w3id.org/transmodel/award/1> <http://schema.org/award_description> "FirstAward is the first award of the KG".
+<https://w3id.org/transmodel/award/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award>.
+<https://w3id.org/transmodel/award/1> <http://schema.org/award_name> "FirstAward".
+<https://w3id.org/transmodel/award/2> <http://schema.org/award_img> "https://picsum.photos/id/259/500/300".
+<https://w3id.org/transmodel/award/2> <http://schema.org/award_date> "12/12/2018".
+<https://w3id.org/transmodel/award/2> <http://schema.org/winner_id> "12/12/2018".
+<https://w3id.org/transmodel/award/2> <http://schema.org/award_description> "SecondAward is the second award of the KG".
+<https://w3id.org/transmodel/award/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award>.
+<https://w3id.org/transmodel/award/2> <http://schema.org/award_name> "SecondAward".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_text> "Lorem ipsum dolor sit amet".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_author> "Luis Pozo".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_title> "FirstExample".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_date> "03/09/2019".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_img> "https://cdn.britannica.com/25/93825-050-D1300547/collection-newspapers.jpg".
+<https://w3id.org/transmodel/news/1> <http://schema.org/new_headline> "This is the HeadLine".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_text> "North Korea has confirmed it test-fired a new type of a ballistic missile".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_author> "Jon Snow".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_title> "SecondExample".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_date> "03/09/2019".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_img> "https://images.unsplash.com/photo-1508138221679-760a23a2285b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80".
+<https://w3id.org/transmodel/news/2> <http://schema.org/new_headline> "This is the second headline".
