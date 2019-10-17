@@ -30,13 +30,13 @@ export default {
             {
                 title:'Project 1',
                 link:'#',
-                description:'Orci sagittis eu volutpat odio facilisis mauris sit amet. Egestas erat imperdiet sed euismod nisi porta lorem. Est lorem ipsum dolor sit amet. Ullamcorper a lacus v',
+                description:'Orci sagittis eu volutpat odio facilisis mauris sit amet.\n Egestas erat imperdiet sed euismod nisi porta lorem.\nEst lorem ipsum dolor sit amet. Ullamcorper a lacus v',
                 image:'https://picsum.photos/id/620/300/200'
             },
                         {
                 title:'Project 3',
                 link:'#',
-                description:'Orci sagittis eu volutpat odio facilisis mauris sit amet. Egestas erat imperdiet sed euismod nisi porta lorem. Est lorem ipsum dolor sit amet. Ullamcorper a lacus v',
+                description:'Orci sagittis eu volutpat odio facilisis mauris sit amet.\n Egestas erat imperdiet sed euismod nisi porta lorem. Est lorem ipsum dolor sit amet. Ullamcorper a lacus v',
                 image:'https://picsum.photos/id/620/300/200'
             },
                         {

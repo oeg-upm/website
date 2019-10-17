@@ -6,11 +6,13 @@
             
             tag="article"
             border-variant="primary"
-            :header="element.title"
-            header-bg-variant="primary"
-            header-text-variant="white"
             class="col-sm-12 col-lg m-2 p-0"
+            header-bg-variant="primary" 
+            header-text-variant="white"
         >
+        <template v-slot:header>
+            <b-card-title>{{element.title}}</b-card-title>
+        </template>
             <b-card-text>
                 {{element.description}}
             </b-card-text>
@@ -43,7 +45,9 @@ export default {
                 description:'Orci sagittis eu volutpat odio facilisis mauris sit amet. Egestas erat imperdiet sed euismod nisi porta lorem. Est lorem ipsum dolor sit amet. Ullamcorper a lacus vestibulum sed arcu non odio euismod.',
                 links:[
                     {name:'Collaborations',link:'#'},
-                    {name:'Useful Links',link:'#'},                    
+                    {name:'Useful Links',link:'#'},  
+                    {name:'Collaborations2',link:'#'},
+                    {name:'Useful Links2',link:'#'},                       
                 ]
             },
                         {

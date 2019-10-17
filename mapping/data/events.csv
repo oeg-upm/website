@@ -1,0 +1,4 @@
+event_id,name,description,start,end,type
+1,FirstEvent,The First Event of the year,03/01/2020,03/01/2020,scientific
+2,SecondEvent,The Second Event of the year,15/03/2020,17/03/2020,social
+

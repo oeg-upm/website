@@ -1,0 +1,78 @@
+{
+    "new":{
+        "uri":"uri",
+        "author":"",
+        "img":"img-Link",
+        "title":"",
+        "preview":"headline of the new",
+        "date":"",
+        "article":"Full text of the new",
+        "tags":["topics", "of", "the", "new"]
+    },
+    "award":{
+        "title":"",
+        "description":"",
+        "winner":"String of the names of the winners",
+        "date":"",
+        "img":"img-Link",
+        "tags":["topics", "of", "the", "award"],
+        "uri":"uri"
+    },
+    "archive":{
+        "title":"",
+        "description":"",
+        "date":"",
+        "type":"Archive's type, it can be event or new",
+        "uri":"uri"
+    },
+    "event":{
+        "name":"",
+        "start":"Start date",
+        "end":"End date",
+        "description":"",
+        "uri":"uri"
+    },
+    "project":{
+        "name":"",
+        "img":"img-Link",
+        "description":"",
+        "researchers":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "results":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}]
+    },
+    "research-area":{
+        "name":"",
+        "img":"img-Link",
+        "description":"",
+        "researchers":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "mResearchers":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "students":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "projects":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}]
+    },
+    "education":[
+        {
+            "name":"Name of the course",
+            "type":"Profissional, oficial, MOOC",
+            "uri":"",
+            "modules":[
+                {
+                    "name":"Name of the module",
+                    "description":"",
+                    "duration":"units = hours"
+                }
+            ]
+        }
+    ],
+    "employed":{
+        "name":"",
+        "role":"",
+        "bio":"",
+        "img":"img-link",
+        "academicBackground":"",
+        "researchAreas":"",
+        "awards":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "contact":[{"name":"email", "value":"example@example.com"}, {"name":"", "value":""}, {"name":"", "value":""}],
+        "projects":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "results":[{"name":"", "uri":""}, {"name":"", "uri":""}, {"name":"", "uri":""}],
+        "hobbies":["Name", "of", "the", "hobbies"]
+    }
+}

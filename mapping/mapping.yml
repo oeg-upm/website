@@ -1,0 +1,56 @@
+prefixes:
+        ex: https://w3id.org/example/
+
+mappings:
+        #award
+        award:
+                sources:
+                        - ['awards.csv']       
+                s: https://w3id.org/example/award/$(award_id)
+                po:
+                        - [ex:award_name, ex:award_name]
+                        - [ex:award_date, $(date)]
+                        #-[ex:award_tags, $(tags)]
+                        - [ex:award_description, $(description)]
+                        - [ex:award_img, $(img)]
+        #new
+        new:                          
+                sources:
+                        - ['news.csv']
+                s: https://w3id.org/example/news/$(news_id)
+                po:
+                        - [ex:new_title, $(title)]
+                        - [ex:new_author, $(author)]
+                        - [ex:new_img, $(img)]
+                        - [ex:new_headline, $(preview)]
+                        - [ex:new_date, $(date)]
+                        - [ex:new_text, $(article)]
+                          # - [ex:new_tags, $(tags)]
+        #event
+        event:                 
+                sources:
+                        - ['events.csv']
+                s: https://w3id.org/example/events/$(event_id)
+                po:
+                        - [ex:event_name, $(name)]
+                        - [ex:event_description, $(description)]
+                        - [ex: event_start_date, $(start)]
+                        - [ex: event_end_date, $(end)]
+        #employed
+        employed:
+                sources:
+                        - ['employeds.csv']
+                s: https://w3id.org/example/employeds/$(employed_id)
+                po:
+                        - [ex:employed_name, $(name)]
+                        - [ex:employed_role, $(role)]
+                        - [ex:employed_bio, $(bio)]  
+                        - [ex:employed_img, $(img)]
+                        - p: ex:award
+                          o:
+                                  - mapping: award
+                                    condition:
+                                            function: equal
+                                            parameters:
+                                                    -[str1, $()]
+

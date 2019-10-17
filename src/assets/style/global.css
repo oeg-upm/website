@@ -20,3 +20,6 @@ hr {
 .underlined{
     text-decoration: underline;
 }
+.pre-formatted {
+    white-space: pre;
+  }

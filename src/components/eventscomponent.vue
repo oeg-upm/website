@@ -6,7 +6,7 @@
       </div>
         <div class="row mt-5">
             <div class="col-sm-12 col-lg-6">
-                <h5><b>{{subtitle}}</b></h5>
+                <h5><b>{{name}}</b></h5>
                 <p class="mt-3">{{description}}</p>
             </div>
             <div class="col-sm-12 col-lg-6">
@@ -73,7 +73,7 @@ export default {
         }
       ],
                 title:String,
-                subtitle:String,
+                name:String,
                 description:String,
                 date:String
 
@@ -87,8 +87,7 @@ export default {
 
         mounted() {
             let url = window.location.href.split("/")
-            this.title = "Scientific Event";
-            this.subtitle = "7th LIDER Roadmapping Workshop at Madrid "
+            this.name = "7th LIDER Roadmapping Workshop at Madrid "
             this.date = "Sep 23rd 19"
             this.description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proidLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qgiat nore eu fugiat afugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est."
             if(url[url.length - 1] == 'scientificEvents'){

@@ -1,0 +1,16 @@
+#Show all the employeds:
+select * where {?s ?p ?o
+FILTER(contains(str(?s), "https://w3id.org/transmodel/employeds/"))
+} LIMIT 100
+#Show all the news:
+select * where {?s ?p ?o
+FILTER(contains(str(?s), "https://w3id.org/transmodel/news/"))
+} LIMIT 100
+#Show all the events:
+select * where {?s ?p ?o
+FILTER(contains(str(?s), "https://w3id.org/transmodel/events/"))
+} LIMIT 100
+#Show all the employred names:
+select ?o where {?s <http://schema.org/employed_name> ?o} LIMIT 100
+#Show all the employeds URIS:
+select ?s where {?s <http://schema.org/employed_name> ?o} LIMIT 100

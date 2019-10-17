@@ -1,6 +1,6 @@
 <template>
   <div class="container fill mt-5">
-      <h1>HOla</h1>
+    <h1>Use Cases</h1>
   </div>
 </template>
 

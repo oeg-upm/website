@@ -11,7 +11,6 @@ import './assets/style/global.css'
 
 import NotFound from './views/404.vue'
 import Home from './views/home.vue'
-import About from './views/about.vue'
 import News from './views/news.vue'
 import singlenewview from './views/singleNewView.vue'
 import awards from './views/awards.vue'
@@ -30,6 +29,7 @@ import JoinUs from './views/joinus.vue'
 import JoinUsCategory from './views/joinuscategory.vue'
 import Project from './views/project.vue'
 import UseCases from './views/usecases.vue'
+import AdminPanel from './views/adminPanel.vue'
 library.add(fab)
 
 
@@ -39,7 +39,6 @@ Vue.use(BootstrapVue);
 
 const routes =  {
   '/': Home,
-  '/about': About,
   '/comunication/news': News,
   '/comunication/new':singlenewview,
   '/comunication/awards':awards,
@@ -63,7 +62,8 @@ const routes =  {
   '/joinus':JoinUs,
   '/joinus/category':JoinUsCategory,
   '/research/projects/project':Project,
-  '/useCases':UseCases
+  '/useCases':UseCases,
+  '/admin':AdminPanel
 
 
 
