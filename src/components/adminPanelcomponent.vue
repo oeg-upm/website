@@ -20,27 +20,27 @@ export default {
             this.formTemplates = [
                 {
                     name:'News',
-                    link:'/admin/form/news'
+                    link:'/admin/news'
                 },
                 {
                     name:'Awards',
-                    link:'/admin/form/awards'
+                    link:'/admin/awards'
                 },
                 {
                     name:'Events',
-                    link:'/admin/form/events'
+                    link:'/admin/events'
                 },
                 {
                     name:'Team',
-                    link:'/admin/form/team'
+                    link:'/admin/team'
                 },
                 {
                     name:'Courses',
-                    link:'/admin/form/courses'
+                    link:'/admin/courses'
                 },
                 {
                     name:'Resources',
-                    link:'/admin/form/resources'
+                    link:'/admin/resources'
                 }
             ]
         }

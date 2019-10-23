@@ -1,0 +1,143 @@
+prefixes:
+  ov: http://open.vocab.org/terms/
+  co: http://purl.org/co/
+  idlab-fn: http://example.com/idlab/function/
+  grel: http://users.ugent.be/~bjdmeest/function/grel.ttl#
+
+mappings:
+  workshops:
+    sources:
+      - ['csv/general-info.csv~csv']
+    s: http://example.com/resources/Event/$(id)
+    po:
+      - [a, schema:Event]
+      - [schema:name, $(title)]
+      - [schema:duration, $(duration)]
+      - [schema:startDate, $(startDate)]
+      - [schema:endDate, $(endDate)]
+      - [schema:location, $(location)]
+      - [schema:superEvent, $(superEvent)]
+      - [ov:twitter-id, $(twitter)]
+      - [schema:email, $(email)]
+      - p: schema:subEvent
+        o:
+          mapping: dates
+      - p: schema:organizer
+        o:
+          mapping: organizers
+
+  topics:
+    sources:
+      - ['csv/topics.csv~csv']
+    s: http://example.com/resources/Topic/$(id)
+    po:
+      - [a, schema:CreativeWork]
+      - [schema:name, $(name)]
+
+  subtopics:
+    sources:
+      - ['csv/subtopics.csv~csv']
+    s: http://example.com/resources/Topic/$(id)
+    po:
+       - [schema:keyword, $(subtopic)]
+  pc:
+    sources:
+      - ['csv/pc.csv~csv']
+    s: http://example.com/resources/ProgramCommittee/$(id)
+    po:
+      - [a, schema:Person]
+      - [schema:performerIn, http://example.com/resources/Event/example-event~iri]
+      - [schema:name, $(name)]
+      - [schema:memberOf, $(organization)]
+  dates:
+    sources:
+      - ['csv/important-dates.csv~csv']
+    s: http://example.com/resources/ImportantDates/$(date)
+    po:
+      - [a, schema:Event]
+      - [schema:name, $(event)]
+      - [schema:startDate, $(date)]
+      - [schema:description, $(description)]
+
+  organizers:
+    sources:
+      - ['csv/organizers.csv~csv']
+    s: http://example.com/resources/Organizer/$(id)
+    po:
+      - [a, schema:Person]
+      - [schema:name, $(name)]
+      - [schema:sameAs, $(webpage)]
+      - [ov:twitter-id, $(twitter)]
+      - [schema:memberOf, $(organization)]
+      - [schema:image, http://localhost:8080/img/$(photo)]
+      - [schema:description, $(biography)]
+      - [schema:email, $(email)]
+      - [schema:jobTitle, $(role)]
+      - [http://example.org/linkedin, $(linkedin)]
+  papers:
+    sources:
+      - ['csv/accepted-papers.csv~csv']
+    s: http://example.com/resources/Article/$(id)
+    po:
+      - [a, schema:Article]
+      - [schema:name, $(title)]
+      - [schema:review, $(review)~iri]
+      - [http://example.com/paperType, $(type)]
+      - p: dcterms:creator
+        o:
+         - mapping: authorlist
+           condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(id)]
+  authorlist:
+    sources:
+      - ['csv/accepted-papers.csv~csv']
+    s: http://example.com/resources/AuthorList/$(id)
+    po:
+      - [a, [co:List, foaf:Group]]
+      - p: co:item
+        o:
+         - mapping: authoritem
+           condition:
+            function: equal
+            parameters:
+              - [str1, $(id)]
+              - [str2, $(paper)]
+#      - p: co:firstItem
+#        o:
+#         - mapping: authoritem
+#           condition:
+#            function: equal
+#            parameters:
+#              - [str1, $(id)]
+#              - [str2, $(paper)]
+#        condition:
+#          function: idlab-fn:equal
+#          parameters:
+#            - [grel:valueParameter, 1]
+#            - [grel:valueParameter2, $(authorNumber), o]
+
+  authoritem:
+    sources:
+      - ['csv/authors-papers.csv~csv']
+    s: http://example.com/resources/AuthorItem/$(id)
+    po:
+      - [a, co:ListItem]
+      - [co:index, $(authorNumber)]
+      - p: co:itemContent
+        o:
+         - mapping: authors
+           condition:
+            function: equal
+            parameters:
+              - [str1, $(author)]
+              - [str2, $(id)]
+  authors:
+    sources:
+      - ['csv/authors.csv~csv']
+    s: http://example.com/resources/Author/$(id)
+    po:
+      - [a, schema:Person]
+      - [schema:name, $(name)]

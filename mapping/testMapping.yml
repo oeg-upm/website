@@ -1,58 +1,60 @@
 prefixes:
-  test: https://w3id.org/transmodel/terms#
+  test: https://example.org/terms#
 
 mappings:
-  award:
-    sources:
-      - ['data/awards.csv~csv']       
-    s:  https://w3id.org/transmodel/award/$(id)
-    po:
-      - [a, schema:Award]
-      - [schema:award_name, $(award_name)]
-      - [schema:award_date, $(date)]
-      - [schema:award_description, $(description)]
-      - [schema:award_img, $(img)]
+#  award:
+#    sources:
+#      - ['data/awards.csv~csv']       
+#    s:  https://example.org/award/$(id)
+#    po:
+#      - [a, schema:Award]
+#      - [schema:award_name, $(award_name)]
+#      - [schema:award_date, $(date)]
+#      - [schema:award_description, $(description)]
+#      - [schema:award_img, $(img)]
         #new
-      - p: schema:winner_id
-        o:
-          - mapping: awardwinners
-            condition:
-             function: equal
-             parameters:
-               - [str1, $(award_id)]
-               - [str2, $(id)]
+#      - p: schema:winner_id
+#        o:
+#          - mapping: awardwinners
+#            condition:
+#             function: equal
+#             parameters:
+#               - [str1, $(award_id)]
+#               - [str2, $(id)]
   new:                          
     sources:
       - ['data/news.csv~csv']
-    s: https://w3id.org/transmodel/news/$(news_id)
+    s: https://example.org/news/$(news_id)
     po:
-      - [schema:new_title, $(title)]
-      - [schema:new_author, $(author)]
-      - [schema:new_img, $(img)]
-      - [schema:new_headline, $(preview)]
-      - [schema:new_date, $(date)]
-      - [schema:new_text, $(article)]
-  #eventi
+      - [a, schema:Article]
+      - [schema:name, $(title)]
+      - [schema:creator, $(author)]
+      - [schema:image, $(img)]
+      - [schema:about, $(preview)]
+      - [schema:contentReferenceTime, $(date)]
+      - [schema:articleBody, $(article)]
+  #event
   event:                 
     sources:
       - ['data/events.csv~csv']
-    s: https://w3id.org/transmodel/events/$(event_id)
+    s: https://example.org/events/$(event_id)
     po:
-      - [schema:event_name, $(name)]
-      - [schema:event_description, $(description)]
-      - [schema:event_start_date, $(start)]
-      - [schema:event_end_date, $(end)]
-      - [schema:event_type, $(type)]
+      - [a, schema:Event]
+      - [schema:name, $(name)]
+      - [schema:about, $(description)]
+      - [schema:startDate, $(start)]
+      - [schema:endDate, $(end)]
+        #- [schema:event_type, $(type)]
   employed:
     sources:
       - ['data/employeds.csv~csv']
-    s: https://w3id.org/transmodel/employeds/$(id)
+    s: https://example.org/employeds/$(id)
     po:
-      - [a, foaf:employed]
-      - [schema:employed_name, $(name)]
-      - [schema:employed_role, $(role)]
-      - [schema:employed_bio, $(bio)]  
-      - [schema:employed_img, $(img)]
+      - [a, schema:Person]
+      - [schema:name, $(name)]
+      - [schema:jobTitle, $(role)]
+      - [schema:description, $(bio)]  
+      - [schema:image, $(img)]
 #      - p: schema:award_id
 #        o:
 #          - mapping: awardwinners
@@ -61,10 +63,10 @@ mappings:
 #             parameters:
 #               -  [str1, $(id)]
 #               -  [str2, $(employed_id)]
-  awardwinners:
-    sources:
-      - ['data/awardWinner.csv~csv']
-    s:
-    po:
-      - [schema:employed_id, $(employed_id)]
-      - [schema:award_id, $(award_id)]
+#  awardwinners:
+#    sources:
+#      - ['data/awardWinner.csv~csv']
+#    s:
+#    po:
+#      - [schema:employed_id, $(employed_id)]
+#      - [schema:award_id, $(award_id)]

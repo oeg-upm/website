@@ -1,3 +1,5 @@
-employed_id,name,role,bio,img,award_id
-0,Luis Pozo,Student,Bio: blablabla,https://picsum.photos/300/200,1
-1,Juan Gonzalez,Student,BIO: BLABLABLA,https://picsum.photos/300/200,2
+id,name,role,bio,img
+0,Luis Pozo,Student,Bio: blablabla,https://picsum.photos/300/200
+1,Juan Gonzalez,Student,BIO: BLABLABLA,https://picsum.photos/300/200
+2,Pepe Peo,PhD,BIO:The BIO,https://picsum.photos/300/200
+

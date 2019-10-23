@@ -7,8 +7,8 @@
                 <label for="author">Author</label>
                 <b-form-input
                     id="author"
-                    :v-model="author"
-                    placeholder="Luis Pozo"
+                    v-model="author"
+                    placeholder=""
                     type="text"
                 ></b-form-input>             
             </div>
@@ -16,8 +16,8 @@
                 <label for="title">Title: </label>
                 <b-form-input
                     id="title"
-                    :v-model="title"
-                    placeholder="An awesome new"
+                    v-model="title"
+                    placeholder=""
                     type="text"
                 ></b-form-input>                
             </div>
@@ -25,8 +25,8 @@
                 <label for="headline">Headline: </label>
                 <b-form-input
                     id="headline"
-                    :v-model="headline"
-                    placeholder="The most awesome new of the page."
+                    v-model="headline"
+                    placeholder=""
                     type="text"
                 ></b-form-input>                
             </div>
@@ -34,8 +34,8 @@
                 <label for="tags">Tags: </label>
                 <b-form-input
                     id="tags"
-                    :v-model="tagString"
-                    placeholder="Ontology, Semantic Web, Artificial Intelligence (Split every tag with a coma)"
+                    v-model="tagString"
+                    placeholder=""
                     type="text"
             ></b-form-input>
             </div>                                   
@@ -43,13 +43,24 @@
                 <label for="article">Article:</label>
                 <b-form-textarea
                 id="article"
-                :v-model="article"
+                v-model="article"
                 placeholder="Type something..."
-                rows="5"
-                max-rows="6"
+                rows="15"
                 ></b-form-textarea>                    
             </div>
             <div class="mt-3">
+                <b-form-group
+                    label-align
+                    label-size="sm"
+                    label-cols-sm="3"
+                    label-align-sm="left" 
+                    class="mb-0"
+                    label="Do you want to include an image?"
+                >
+                    <b-form-checkbox v-model="includeImage" id="IncludeImage" size="lg" switch></b-form-checkbox>
+                </b-form-group>
+            </div>
+            <div v-if="includeImage" class="mt-3">
                 <b-form-file
                 v-model="img_path"
                 :state="Boolean(img_path!='' && submitted)"
@@ -82,14 +93,22 @@ data(){
             img_path:String,
             tagString:String,
             tags:[],
+            includeImage:Boolean,
             submitted:Boolean
     }
 },
 methods:{
     createNew(){
-        console.log("Click Dentro")
-       NewsController.createNew().then((result) => {
-            console.log(result);
+        let form = {
+        title:this.title,
+        article:this.article,
+        author:this.author,
+        headline:this.headline,
+        tags:this.tagString, 
+        includeImage:this.includeImage,
+        img_path:this.img_path
+        }
+       NewsController.createNew(form).then((result) => {
             if(result){
                 this.submitted = true;
             }
@@ -97,10 +116,13 @@ methods:{
     }
 },
 mounted(){
-    this.title= "";
-    this.article = "";
-    this.img_path ="";
     this.submitted = false;
+    this.includeImage = false;
+    this.author = "Luis";
+    this.title = "Title";
+    this.headline ="Headline";
+    this.tagString= "Tag1, Tag2";
+    this.article = "Article";
 }
 }
 </script>

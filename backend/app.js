@@ -2,6 +2,7 @@ const express = require('express');
 const expressGraphQl = require('express-graphql');
 const {buildSchema} = require('graphql')
 const cors = require('cors');
+
 const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3333;
