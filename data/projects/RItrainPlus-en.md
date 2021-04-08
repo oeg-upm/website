@@ -1,7 +1,7 @@
 ## RItrainPlus (H2020-101008503)
 
 ## Datos administrativos
-URL: https://www.reliance-project.eu/
+URL: 
 
 Duración: Abril 2021 - Marzo 2025
 
