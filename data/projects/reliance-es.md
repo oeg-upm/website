@@ -2,7 +2,9 @@
 
 ## Datos administrativos
 URL: https://www.reliance-project.eu/
+
 Duración: Enero 2020 - Diciembre 2021
+
 CORDIS: https://cordis.europa.eu/project/id/101017501/es
 
 ## Descripción general
