@@ -1,9 +1,9 @@
 ## RItrainPlus (H2020-101008503)
 
-## Datos administrativos
+## Administrative data
 URL: 
 
-Duración: Abril 2021 - Marzo 2025
+Duration: April 2021 - March 2025
 
 CORDIS: https://cordis.europa.eu/project/id/101008503/es
 
@@ -13,10 +13,9 @@ i) drive excellence, operational improvements and long-term sustainability of Eu
 ii) create a foundation for the long-term provision of highly qualified personnel for managing RI and CF by developing Learning Activities embedded in existing university programs and a certifiable European Longitudinal Learning Track;
 iii) establish a permanent and self-sustainable European School for Management of Research Infrastructures. In the four-year project all the required steps will be performed, with extended involvement of ERICs, EIROforum members, national agencies, and other relevant stakeholders in the design process.
 
-## Rol  OEG in the project
+## Role of the oeg in this project
+More specifically, in this project the OEG-UPM is working fundamentally on
 
 
-
-## Algunos resultados relevantes
-En esta sección se irán incluyendo descripciones de algunos de los resultados más relevantes del proyecto según se vayan produciendo.
-
+## Some relevant results
+This section will include descriptions of some of the most relevant results of the project as they are produced.
