@@ -1,31 +1,31 @@
-Areas de investigación,Proyecto
-Ingenieria ontologica,ADMIRE
-Ingenieria ontologica,Autores 3.0
-Ingenieria ontologica,BuscaMedia
-Ingenieria ontologica,SemSorGrid4Env
-Web semantica y linked data,SEALS
-Web semantica y linked data,DynaLearn
-Web semantica y linked data,España Virual
-Web semantica y linked data,Geobuddies
-Web semantica y linked data,PlanetData
-Web semantica y linked data,Webn+1
-Web semantica y linked data,Knowledge Web
-Web semantica y linked data,Esperonto
-e-Ciencia semantica,RELIANCE
-e-Ciencia semantica,RedTematicaOpenScience
-e-Ciencia semantica,Wf4Ever
-e-Ciencia semantica,DrInventor
-e-Ciencia semantica,W3C Community Group on Research Objects for Scholarly Communication
-e-Ciencia semantica,siteresearchobject.org.
-e-Ciencia semantica, ADMIRE
-e-Ciencia semantica, OntoGrid
-e-Ciencia semantica, SCALUS
-e-Ciencia semantica,myBigData.
-Ingenieria lingüística,LIDER
-Ingenieria lingüística,LEMON
-Ingenieria lingüística,LIR
-Ingenieria lingüística,OntoTag
-Ingenieria lingüística,Ontogeneration
-Integracion de datos (Big Data e Internet del Futuro),PlanetData
-Integracion de datos (Big Data e Internet del Futuro),SemData
-Integracion de datos (Big Data e Internet del Futuro),myBigData
+Areas de investigación,id research area,Proyecto,id project
+Ingenieria ontologica,ontological-engineering,ADMIRE,admire
+Ingenieria ontologica,ontological-engineering,Autores 3.0,autores3-0
+Ingenieria ontologica,ontological-engineering,BuscaMedia,buscamedia
+Ingenieria ontologica,ontological-engineering,SemSorGrid4Env,semsorgrid4env
+Web semantica y linked data,knowledge-graph,SEALS,seals
+Web semantica y linked data,knowledge-graph,DynaLearn,dynalearn
+Web semantica y linked data,knowledge-graph,España Virual,españa-virtual
+Web semantica y linked data,knowledge-graph,Geobuddies,geeobuddies
+Web semantica y linked data,knowledge-graph,PlanetData,planetdata
+Web semantica y linked data,knowledge-graph,Webn+1,webn+1
+Web semantica y linked data,knowledge-graph,Knowledge Web,knowledge-web
+Web semantica y linked data,knowledge-graph,Esperonto,esperonto
+e-Ciencia semantica,open-science,RELIANCE,reliance
+e-Ciencia semantica,open-science,RedTematicaOpenScience,rtopenscience
+e-Ciencia semantica,open-science,Wf4Ever,wf4ever
+e-Ciencia semantica,open-science,DrInventor,drinventor
+e-Ciencia semantica,open-science,W3C Community Group on Research Objects for Scholarly Communication,
+e-Ciencia semantica,open-science,siteresearchobject.org.,
+e-Ciencia semantica,open-science, ADMIRE,admire
+e-Ciencia semantica,open-science, OntoGrid,ontogrid
+e-Ciencia semantica,open-science, SCALUS,scalus
+e-Ciencia semantica,open-science,myBigData.,mibigdata
+Ingenieria lingüística,linguistic-engineering,LIDER,lider
+Ingenieria lingüística,linguistic-engineering,LEMON,lemon
+Ingenieria lingüística,linguistic-engineering,LIR,lir
+Ingenieria lingüística,linguistic-engineering,OntoTag,onto-tag
+Ingenieria lingüística,linguistic-engineering,Ontogeneration,ontogeneration
+Integracion de datos (Big Data e Internet del Futuro),data-integration,PlanetData,planetdata
+Integracion de datos (Big Data e Internet del Futuro),data-integration,SemData,semdata
+Integracion de datos (Big Data e Internet del Futuro),data-integration,myBigData,mybigdata
