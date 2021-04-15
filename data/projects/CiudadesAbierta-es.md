@@ -3,7 +3,7 @@
 ## Datos administrativos
 URL: https://ciudades-abiertas.es/
 
-Duración:
+Duración: Julio 2018 - Julio 2021
 
 CORDIS:
 
