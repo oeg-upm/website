@@ -4,6 +4,7 @@
 ## Administrative data
 
 URL: https://kunveno.digital/
+URL: https://smarter-interpreting.eu/theproject/
 
 Duration: 
 
