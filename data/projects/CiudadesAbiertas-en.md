@@ -5,9 +5,9 @@
 
 URL: https://ciudades-abiertas.es/
 
-Duration: 
+Duration: July 2018 - ongoing
 
-CORDIS: 
+CORDIS:
 
 ## General description
 Open Cities is a collaborative project led by four municipalities that aims to facilitate the implementation of Open Government policies through the development of a set of initiatives reusable by other organizations.
@@ -15,8 +15,10 @@ Among others, the actions for the definition of new Vocabularies in the field of
 
 
 ## Role of the oeg in this project
-More specifically, in this project the OEG-UPM is working fundamentally in 
+More specifically, in this project the OEG-UPM is working fundamentally in:
 
+* Development of a set of vocabularies for the representation of data from several city domains such as budgets, traffic, census of inhabitants, among others. In addition, definition of several concept list to complement the vocabularies developed in the project.
+* Modularization works on certain components already developed by the Zaragoza City Council. This modularization work is being carried out so that these components can be used independently from the rest of the existing components on the platform.
 
 
 ## Some relevant results

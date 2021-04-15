@@ -1,17 +1,17 @@
 ## HCommonK
-
+![Proyect logo](/data/images/Projects/hcommonk.png)
 ## Datos administrativos
-URL:
+URL: https://oeg.fi.upm.es/index.php/en/activeprojects/510-hcommonk/
 
-Duración: 
+Duración: 27 meses
 
 CORDIS: 
 
 ## Descripción general
-
+Proyecto de I+D financiado por el programa Retos-Colaboración (RTC2019-007134-7) para mejorar la calidad de los datos de la DBpedia del español mediante inteligencia colectiva humana e inteligencia artificial.
 
 ## Rol del OEG en este proyecto
-De manera más específica, en este proyecto el OEG-UPM está trabajando fundamentalmente en:
+El OEG ha llevado la parte de investigación básica y transferencia de tecnologías. 
 
 
 ## Algunos resultados relevantes

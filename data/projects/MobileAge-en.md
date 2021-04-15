@@ -15,7 +15,7 @@ The "Mobile Age" Project ensures the inclusion of older people in the use of dig
 
 
 ## Role of the oeg in this project
-More specifically, in this project the OEG-UPM is working fundamentally in:
+More specifically, in this project the OEG-UPM is working fundamentally in: data modelling and ontology-based-data-access
 
 
 

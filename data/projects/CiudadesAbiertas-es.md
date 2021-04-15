@@ -3,9 +3,9 @@
 ## Datos administrativos
 URL: https://ciudades-abiertas.es/
 
-Duración: 
+Duración: Julio 2018 - Julio 2021
 
-CORDIS: 
+CORDIS:
 
 ## Descripción general
 Ciudades Abiertas es un proyecto colaborativo liderado por cuatro ayuntamientos que pretende facilitar la implantación de las políticas de Gobierno Abierto mediante el desarrollo de un conjunto de iniciativas reutilizables por otros organismos.
@@ -14,6 +14,8 @@ Destacan entre otras las actuaciones para la definición de nuevos Vocabularios 
 ## Rol del OEG en este proyecto
 De manera más específica, en este proyecto el OEG-UPM está trabajando fundamentalmente en:
 
+* Desarrollo de vocabularios para la representación de datos de las ciudades en dominios tales como presupuestos, tráfico, padrón de habitantes, entre otros. Así mismo, definición de varias listas de conceptos que permiten complementar los vocabularios desarrollados en el proyecto.
+* Trabajos de modularización de ciertos componentes ya desarrollados por el Ayuntamiento de Zaragoza. Este trabajo de modularización se está realizando para que los componentes puedan ser utilizados de manera independiente del resto de componentes existentes en la plataforma
 
 ## Algunos resultados relevantes
-En esta sección se irán incluyendo descripciones de algunos de los resultados más relevantes del proyecto 
+En esta sección se irán incluyendo descripciones de algunos de los resultados más relevantes del proyecto
