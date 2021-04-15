@@ -15,8 +15,9 @@ Among others, the actions for the definition of new Vocabularies in the field of
 
 
 ## Role of the oeg in this project
-More specifically, in this project the OEG-UPM is working fundamentally in 
+More specifically, in this project the OEG-UPM is working fundamentally in:
 
+* Modularization works on certain components already developed by the Zaragoza City Council. This modularization work is being carried out so that these components can be used independently from the rest of the existing components on the platform.
 
 
 ## Some relevant results
