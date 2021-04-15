@@ -5,7 +5,7 @@
 
 URL: 
 
-Duration: From: 1 November 2020 to: 31 October 2023
+Duration: 1 November 2020 - 31 October 2023
 
 CORDIS: [COGITO](https://cordis.europa.eu/project/id/958310)
 
