@@ -8,7 +8,7 @@ Duración: 27 meses
 CORDIS: 
 
 ## Descripción general
-Proyecto de I+D financiado por el programa Retos-Colaboración (RTC2019-007134-7) para mejorar la calidad de los datos de la DBpedia del español mediante inteligencia colectiva humana e inteligencia artificial.
+Proyecto de I+D financiado por el programa Retos-Colaboración (RTC2019-007134-7) para mejorar la calidad de los datos de la DBpedia del español mediante inteligencia colectiva humana e inteligencia artificial. [Página Web del proyecto](http://hcommonk.com).
 
 ## Rol del OEG en este proyecto
 El OEG ha llevado la parte de investigación básica y transferencia de tecnologías. 
