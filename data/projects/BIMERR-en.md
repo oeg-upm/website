@@ -6,15 +6,17 @@
 
 URL: https://bimerr.eu/
 
-Duration: January 2019 - June 2020
+Duration: January 2019 - June 2022
 
-CORDIS: https://cordis.europa.eu/project/id/688467
+CORDIS: https://cordis.europa.eu/project/id/820621
 
 
 
 ## General description
 
-Building Information Modelling (BIM) is a critical element in the digitalization of the construction industry, which isnecessary in order to unleash huge efficiency and productivity improvements. BIMERR aims at designing and developinga toolkit including tools to support renovation stakeholders throughout the renovation process of existing buildings. A crucial aspect of the toolkit is the interoperability between BIMERR partners tools as well as with third-party legacy ICT tools in order to enable seamless BIM creation and information exchange among AEC stakeholders in an effort to enhance the rapid adoption of BIM in the renovation of the existing building stock in the EU countries. 
+Building Information Modelling (BIM) is a critical element in the digitalization of the construction industry, which is
+necessary in order to unleash huge efficiency and productivity improvements. BIMERR aims at designing and developing
+a toolkit including tools to support renovation stakeholders throughout the renovation process of existing buildings. A crucial aspect of the toolkit is the interoperability between BIMERR partners tools as well as with third-party legacy ICT tools in order to enable seamless BIM creation and information exchange among AEC stakeholders in an effort to enhance the rapid adoption of BIM in the renovation of the existing building stock in the EU countries. 
 
 
 In order to achieve its objectives, BIMERR relies upon 3 key elements:
