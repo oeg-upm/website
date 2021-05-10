@@ -30,7 +30,7 @@ Main OntoCommons objectives are:
 4. Develop and roll-out an OntoCommons Roadmap that will include a number of recommendations for policy instruments towards Data Sharing for the European Single Market.
 
 
-## Role of the oeg in this project
+## Role of the OEG in this project
 
 More specifically, in this project the OEG-UPM is working fundamentally on the development of the OntoCommons ontology development methodology and related toolkit.
 
