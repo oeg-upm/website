@@ -1,13 +1,12 @@
-## COGITO
-
+## AURORAL
 
 ## Administrative data
 
-URL: https://cogito-project.eu/
+URL: https://www.auroral.eu/
 
-Duration: 1 November 2020 - 31 October 2023
+Duration: 1 January 2021 - 31 December 2024
 
-CORDIS: [COGITO](https://cordis.europa.eu/project/id/958310)
+CORDIS: [AURORAL](https://cordis.europa.eu/project/id/101016854)
 
 ## General description
 

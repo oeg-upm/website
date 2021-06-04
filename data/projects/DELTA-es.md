@@ -1,12 +1,12 @@
-## COGITO
+## DELTA
 
 ## Datos administrativos
 
-URL: https://cogito-project.eu/
+URL: https://www.delta-h2020.eu/
 
-Duración: Noviembre 2020 - Octubre 2023
+Duración: 1 Mayo 2018 - 31 Octubre 2021
 
-CORDIS: https://cordis.europa.eu/project/id/958310
+CORDIS: [DELTA](https://cordis.europa.eu/project/id/773960)
 
 ## Descripción general
 
