@@ -1,0 +1,832 @@
+  Priyatna, Freddy; Chaves-Fraga, David; Alobaid, Ahmad y Corcho, Oscar  (2019).  morph-GraphQL: GraphQL Servers Generation from R2RML Mappings.  En: "The 31st International Conference on Software Engineering & Knowledge Engineering", 10-12 July 2019., Lisbon, Portugal.   https://doi.org/10.18293/SEKE2019-055 <https://doi.org/10.18293/SEKE2019-055>. 
+
+  Brandon, Alvaro; Perez, Maria S.; Gupta, Smrati y Muntes-Mulero, Victor  (2018).  Using Machine Learning to Optimize Parallelism in Big Data Applications.   "Future Generation Computer Systems", v. 86 ;   pp. 1076-1092.  ISSN 0167-739X.   https://doi.org/10.1016/j.future.2017.07.003 <https://doi.org/10.1016/j.future.2017.07.003>. 
+
+  Alobaid, Ahmad y Corcho, Oscar  (2018).  Fuzzy Semantic Labeling of Semi-structured Numerical Datasets.  En: "21st International Conference on Knowledge Engineering and Knowledge Management", 12-16 Nov 2018, Nancy, France. ISBN 978-3-030-03667-6. pp. 19-33.   https://doi.org/10.1007/978-3-030-03667-6_2 <https://doi.org/10.1007/978-3-030-03667-6_2>. 
+
+  Badenes-Olmedo, Carlos; Redondo-García, José Luis y Corcho, Oscar  (2017).  Efficient Clustering from Distributions over Topics.  En: "Knowledge Capture Conference (K-CAP 2017)", 04-06 Dec 2017, Austin, Texas, United States. pp. 1-8.   https://doi.org/10.1145/3148011.3148019 <https://doi.org/10.1145/3148011.3148019>. 
+
+  Badenes-Olmedo, Carlos; Redondo-Garcia, José Luis y Corcho, Oscar  (2017).  Distributing Text Mining tasks with librAIry.  En: "ACM Symposium on Document Engineering (DOCEng 2017)", 3-7 Sept 2017, Valetta, Malta. pp. 63-66.   https://doi.org/10.1145/3103010.3121040 <https://doi.org/10.1145/3103010.3121040>. 
+
+  Manrique Gamo, Daniel y Suárez de Figueroa Baonza, María del Carmen  (2017).  Razonamiento con imprecisión: lógica borrosa. Apuntes y ejercicios..    Manrique y Suárez de Figueroa, Madrid.     
+
+  Badenes-Olmedo, Carlos; Redondo-Garcia, Jose Luis y Corcho, Oscar  (2017).  An initial Analysis of Topic-based Similarity among Scientific Documents based on their Rhetorical Discourse Parts.  En: "SemSci 2017 workshop co-located with ISWC", 21-25 Oct 2017, Vienna, Austria.    
+
+  Galdo Seara, Luis  (2016).  Generación de aplicaciones para los datos abiertos de ciudades generados de acuerdo con la norma UNE178301.  Proyecto Fin de Carrera / Trabajo Fin de Grado, E.T.S. de Ingenieros Informáticos (UPM) <http://oa.upm.es/view/institution/ETSI=5FInformatica/>, Madrid, España.    
+
+  Alobaid, Ahmad  (2015).  OnToology: An online tool for ontology documentation and evaluation.  Tesis (Master), E.T.S. de Ingenieros Informáticos (UPM) <http://oa.upm.es/view/institution/ETSI=5FInformatica/>.    
+
+  Santana-Perez, I; Ferreira da Silva, R; Rynge, M; Deelman, E; Pérez-Hernández, M y Corcho, Oscar  (2014).  A Semantic-Based Approach to Attain Reproducibility of Computational Environments in Scientic Work ows: A Case Study.  En: "1st International Workshop on Reproducibility in Parallel Computing in conjunction with Euro-Par 2014 (REPPAR'14)", 25 - 29 Agosto 2014, Porto, Portugal.    
+
+  Santana-Perez, Idafen; Ferreira da Silva, Rafael; Rynge, Mats; Deelman, Ewa; Pérez-Henández, María S y Corcho, Oscar  (2014).  Leveraging Semantics to Improve Reproducibility in Scientific Workflows.  En: "reproducibility@XSEDE: An XSEDE14 Workshop", 14 Julio 2014, Atlanta, GA.    
+
+  Radulovic, F.; García-Castro, Raúl y Gómez-Pérez, A.  (2013).  A Recommendation Framework Based on the Analytic Network Process and its Application in the Semantic Technology Domain.  En: "CAEPIA 2013 : XV Conference of the Spanish Association for Artificial Intelligence", 17 - 20 Septiembre 2013, Madrid.    
+
+  Garijo Verdejo, Daniel; Corcho, Oscar y Gil, Yolanda  (2013).  Detecting common scientific workflow fragments using templates and execution provenance.  En: "K-Cap 2013.- The Seventh International Conference on Knowledge Capture | Banff, Alberta, Canada", 23-26 June 2013, Banff, Canada.    
+
+  Egaña Aranguren, Mikel; Fernández-Breis, Jesualdo Tomás; Mungall, C.; Antezana, E.; Rodríguez González, A. y Wilkinson, M.  (2013).  OPPL-Galaxy, a Galaxy tool for enhancing ontology exploitation as part of bioinformatics workflows.   "Journal of Biomedical Semantics" ;       
+
+  Garijo, Daniel  (2013).  PROV-O: The PROV Ontology Tutorial.  En: "International Conference on Dublin Core and Metadata Applications", November 9 - 12, 2013, Lisboa, Portugal.    
+
+  Garijo, Daniel  (2013).  Research Objects.  En: "International Conference on Theory and Practice of Digital Libraries, TPDL 2013", September 22-26, 2013, Valletta, Malta. ISBN 978-3-642-40500-6.    
+
+  Garijo Verdejo, Daniel; Kinnings, Sarah; Xie, Li; Xie, Lei; Zhang, Yinliang; Bourne, Philip E. y Gil, Yolanda  (2013).  Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome.   "Plos one" ;    ISSN 1932-6203.   https://doi.org/10.1371/journal.pone.0080278 <https://doi.org/10.1371/journal.pone.0080278>. 
+
+  Keet, C.M.; Suárez-Figueroa, Mari Carmen y Poveda-Villalón, María  (2013).  The Current Landscape of Pitfalls in Ontologies.  En: "5th International Conference on Knowledge Engineering and Ontology Development (KEOD2013)", 19 - 22 September 2013, Vilamoura, Algarve, Portugal.    
+
+  Kudumakis, Panos; Sandler, Mark; Anadiotis, Angelos-Christos G.; Venieris, Iakovos S.; Difino, Angelo; Wang, Xin; Tropea, Giuseppe; Grafl, Michael; Rodriguez-Doncel, Victor; Llorente, Silvia y Delgado, Jaime  (2013).  MPEG-M: A Digital Media Ecosystem for Interoperable Applications.   "Signal Processing: Image Communication" ;    ISSN 0923-5965.    
+
+  Montiel-Ponsoda, Elena; McCrae, J.; Aguado de Cea, G. y Gracia del Río, Jorge  (2013).  Multilingual Variation in the context of Linked Data.  En: "10th International Conference on Terminology and Artificial Intelligence (TIA'13)", October 28-30, 2013, Villetaneuse, Francia.    
+
+  Muñoz García, Oscar; Lanchas Sampablo, Jesús y Prieto Ruiz, David  (2013).  Characterising social media users by gender and place of residence.   "Revista de Procesamiento de Lenguaje Natural", v. 51 ;   pp. 57-64.  ISSN 1135-5948.    
+
+  Poveda-Villalón, María; Vatant, B.; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2013).  Detecting Good Practices and Pitfalls when Publishing Vocabularies on the Web.  En: "WOP 2013 – Workshop on Ontology Patterns at the 12th International Semantic Web Conference (ISWC 2013)", 21 October 2013, Sydney, Australia. ISBN 1613-0073.    
+
+  Rodriguez-Doncel, Victor; Gómez-Pérez, A. y Mihindukulasooriya, Nandana  (2013).  Rights declaration in Linked Data.  En: "ISWC 2013", October 22, 2013, Sydney, Australia.    
+
+  Vilches-Blazquez, LM.; Sevilla Sánchez, C.; Villalon, Miguel; Rodriguez, Antonio F. y Gómez-Pérez, A.  (2013).  Combinando Linked Data con servicios geoespaciales.  En: "IV Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE2013)", November 14, 2013, Toledo, Spain.    
+
+  Rodriguez-Doncel, Victor y Garijo, Daniel  (2012).  Mapping of the Music Ontology to the Media Value Chain Ontology and the PROV Ontology.  En: "Digital Music Research Network One-day Workshop", 18 Diciembre 2012, Londres.    
+
+  Aggarwal, Nitish; Asooja, Kartik; Buitelaar, Paul; Polajanar, Tamara y Gracia, Jorge  (2012).  Cross-Lingual Linking of News Stories using ESA.  En: "FIRE", December 2012, Kolkata, India.    
+
+  Asooja, Kartik; Gracia, Jorge; Aggarwal, Nitish y Gómez-Pérez, A.  (2012).  Using Cross-Lingual Explicit Semantic Analysis for Improving Ontology Translation.  En: "COLING'12", December 2012, Mumbai, India.    
+
+  Flouris, G; Roussakis, Y; Poveda-Villalón, M; Mendes, Pablo N. y Fundulaki, I.  (2012).  Using Provenance for Quality Assessment and Repair in Linked Open Data.  En: "11th International Semantic Web Conference", 12 November, 2012, Boston, Estados Unidos.    
+
+  Gracia, Jorge; Montiel-Ponsoda, Elena y Gómez-Pérez, A.  (2012).  Cross-lingual Linking on the Multilingual Web of Data (position statement).  En: "ISWC 2012", November, 2012, Boston (USA). ISBN 1613-0073.    
+
+  Gracia, Jorge y Mena, Eduardo  (2012).  Semantic Heterogeneity Issues on the Web.   "IEEE Internet Computing", v. 16  (n. 5);   pp. 60-67.  ISSN 1089-7801.    
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2012).  Validating Ontologies with OOPS!.  En: "The 18th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2012)", 8-12 octubre 2012, Galway, Irlanda. ISBN 978-3-642-33875-5.    
+
+  Poveda Villalón, María; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2012).  The Landscape of Ontology Reuse in Linked Data.  En: "Ontology Engineering in a Data-driven World (OEDW 2012)", 9 octubre 2012, Galway, Irlanda.    
+
+  Gracia, Jorge  (2012).  Cross-lingual ontology matching as a challenge for the Multilingual Semantic Web.  En: "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik", September 2012.    
+
+  Santana-Perez, Idafen y Perez-Hernandez, Marıa S.  (2012).  A semantic scheduler architecture for federated hybrid clouds.  En: "Cloud Computing (CLOUD), 2012 IEEE 5th International Conference", 24-29 June 2012, Honolulu, HI. ISBN 978-1-4673-2892-0.    
+
+  Vila-Suero, Daniel y Gómez-Pérez, A.  (2012).  What is the current state of the Multilingual Web of Data?.  En: "Dagstuhl Seminar: “The Multilingual Semantic Web”", 2 September, 2012, Leibniz-Zentrum für Informatik, Wadern (Alemania).    
+
+  Santana-Perez, Idafen  (2012).  Semantic scheduling of virtualized infrastructures for scientific workflows.  En: "High Performance Computing and Simulation (HPCS), 2012 International Conference", 2-6 July 2012, Madrid. ISBN 978-1-4673-2359-8.    
+
+  Pareja-Lora, A.  (2012).  OntoTag - A Linguistic and Ontological Annotation Model Suitable for the Semantic Web.  Tesis (Doctoral), Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Villazón-Terrazas, Boris; Vila-Suero, Daniel; Garijo, Daniel; Vilches-Blazquez, LM.; Poveda-Villalon, Maria; Mora, Jose; Corcho, Oscar y Gómez-Pérez, A.  (2012).  Publishing Linked Data - There is no One-Size-Fits-All Formula.  En: "European Data Forum 2012", 6 June, 2012, Copenague, Dinamarca.    
+
+  McCrae, J.; Aguado de Cea, G.; Buitelaar, Paul; Cimiano, Philipp; Declerck, Thierry; Gómez-Pérez, A.; Gracia, Jorge; Hollink, Laura; Montiel-Ponsoda, Elena; Spohr, Dennis y Wunner, Tobias  (2012).  Interchanging lexical resources on the Semantic Web.   "Language Resources and Evaluation", v. 46 ;    ISSN 1574-020X.    
+
+  Poveda-Villalón, María  (2012).  A Reuse-based Lightweight Method for Developing Linked Data Ontologies and Vocabularies.  En: "9ª Extended Semantic Web Conference (ESWC2012)", 27 - 31 May, 2012, Heraklion, Grecia.    
+
+  Poveda-Villalón, María; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2012).  Did you validate your ontology? OOPS!.  En: "9ª Extended Semantic Web Conference (ESWC2012)", 27 - 31 May, 2012, Heraklion, Grecia.    
+
+  Meilicke, Christian; García-Castro, Raúl; Freitas, Fred; Robert van Hage, Willem; Montiel-Ponsoda, Elena; Ribeiro de Azevedo, Ryan; Stuckenschmidt, Heiner; Šváb-Zamazal, Ondřej; Svátek, Vojtěch; Tamilin, Andrei; Trojahn, Cássia y Wang, Shenghui Shenghui  (2012).  MultiFarm: A benchmark for multilingual ontology matching.  En: "Web Semantics: Science, Services and Agents on the World Wide Web", April, 2012.    
+
+  Gracia, Jorge; Montiel-Ponsoda, Elena; Cimiano, Philipp; Gómez-Pérez, A.; Buitelaar, Paul y McCrae, J.  (2012).  Challenges for the Multilingual Web of Data.   "Journal of Web Semantics", v. 11 ;   pp. 63-71.  ISSN 1570-8268.    
+
+  Vila-Suero, Daniel  (2012).  Cross‐lingual link discovery in the Web of Data.  En: "PhD Symposium DIA-UPM", 22 Marzo 2012, Madrid, España.    
+
+  García-Silva, A.; Corcho, Oscar; Alani, H. y Gómez-Pérez, A.  (2012).  Review of the state of the art: Discovering and Associating Semantics to Tags in Folksonomies.   "The Knowledge Engineering Review", v. 27  (n. 01);   pp. 57-85.  ISSN 0269-8889.   https://doi.org/10.1017/S026988891100018X <https://doi.org/10.1017/S026988891100018X>. 
+
+  Poveda Villalon, Maria y Suárez-Figueroa, Mari Carmen  (2012).  OOPS! – OntOlogy Pitfalls Scanner!.  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, Madrid.    
+
+  Adamou, Alessandro; Palma, R.; Haase, Peter; Montiel-Ponsoda, Elena; Aguado de Cea, G.; Gómez-Pérez, A.; Peters, W. y Gangemi, A.  (2012).  The NeOn Ontology Models.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 65-92.  ISBN 978-3-642-24793-4.     
+
+  Espinoza Mejía, Mauricio; Montiel-Ponsoda, Elena; Aguado de Cea, G. y Gómez-Pérez, A.  (2012).  Ontology Localization.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, España, pp. 171-191.  ISBN 978-3-642-24793-4.     
+
+  Fernández-López, M.; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2012).  Ontology Development by Reuse.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 147-170.  ISBN 978-3-642-24793-4.    https://doi.org/10.1007/978-3-642-24794-1_7 <https://doi.org/10.1007/978-3-642-24794-1_7>. 
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2012).  Semantic Interoperability: Perspectives and Technology Evaluation.   En:  "Semantic Interoperability: Issues, Solutions, and Challenges".   River Publishers, pp. 7-24.  ISBN 978-87-92329-79-0.     
+
+  Leon, Alexander de; Wisniewki, Filip; Villazón-Terrazas, Boris y Corcho, Oscar  (2012).  Map4rdf - Faceted Browser for Geospatial Datasets.  En: "PMOD workshop", 2012.    
+
+  McCrae, J.; Montiel-Ponsoda, Elena y Cimiano, Philipp  (2012).  Integrating WordNet and Wiktionary with lemon.   En:  "Linked Data in Linguistics".   Springer Berlin Heidelberg, pp. 25-34.  ISBN 978-3-642-28248-5.    https://doi.org/10.1007/978-3-642-28249-2_3 <https://doi.org/10.1007/978-3-642-28249-2_3>. 
+
+  Miñarro-Giménez, José Antonio; Egaña Aranguren, Mikel; Villazón-Terrazas, Boris y Fernández-Breis, Jesualdo Tomás  (2012).  Publishing Orthology and Diseases Information in the Linked Open Data Cloud.   "Current Bioinformatics", v. 7  (n. 3);    ISSN 1574-8936.    
+
+  Miñarro-Giménez, José Antonio; Egaña Aranguren, Mikel; Villazón-Terrazas, Boris y Fernández-Breis, Jesualdo Tomás  (2012).  Translational research combining orthologous genes and human diseases with the OGOLOD dataset.   "Semantic Web – Interoperability, Usability, Applicability an IOS Press Journal" ;       
+
+  Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2012).  Ontology Requirements Specification.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 93-106.  ISBN 978-3-642-24793-4.    https://doi.org/10.1007/978-3-642-24794-1_5 <https://doi.org/10.1007/978-3-642-24794-1_5>. 
+
+  Suárez-Figueroa, Mari Carmen; Gómez-Pérez, A. y Fernández-López, M.  (2012).  The NeOn Methodology for Ontology Engineering.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 9-34.  ISBN 978-3-642-24793-4.    https://doi.org/10.1007/978-3-642-24794-1_2 <https://doi.org/10.1007/978-3-642-24794-1_2>. 
+
+  Suárez-Figueroa, Mari Carmen; Gómez-Pérez, A.; Motta, Enrico y Gangemi, A.  (2012).  Introduction: Ontology Engineering in a Networked World.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 1-6.  ISBN 978-3-642-24793-4.    https://doi.org/10.1007/978-3-642-24794-1_1 <https://doi.org/10.1007/978-3-642-24794-1_1>. 
+
+  Suárez-Figueroa, Mari Carmen; Gómez-Pérez, A. y Muñoz-García, O.  (2012).  Scheduling Ontology Engineering Projects Using gOntt.   En:  "Ontology Engineering in a Networked World".   Springer Berlin Heidelberg, pp. 303-317.  ISBN 978-3-642-24793-4.    https://doi.org/10.1007/978-3-642-24794-1_14 <https://doi.org/10.1007/978-3-642-24794-1_14>. 
+
+  Vila-Suero, Daniel; Villazón-Terrazas, Boris y Gómez-Pérez, A.  (2012).  datos.bne.es: A library linked dataset.   "Semantic Web Journal" ;       
+
+  Pariente Juárez, S.; Estrada Esquivel, H.; Martínez Rebollar, A. y Suárez-Figueroa, Mari Carmen  (2011).  CreaDO – A Methodology to Create Domain Ontologies using Parameter-based Ontology Merging Techniques.  En: "10th Mexican International Conference on Artificial Intelligence", November 26-December 04 2011, Puebla, Mexico. ISBN 978-0-7695-4605-6.    
+
+  Rico-Almodóvar, Mariano; Corcho, Oscar; Méndez, V. y Gómez-Pérez, José Manuel  (2011).  A Semantically Enhanced UPnP Control Point for Sharing Multimedia Content.   "IEEE Internet Computing", v. 15  (n. 6);    ISSN 1089-7801.   https://doi.org/10.1109/MIC.2011.83 <https://doi.org/10.1109/MIC.2011.83>. 
+
+  Buitelaar, Paul; Cimiano, Philipp; McCrae, J.; Montiel-Ponsoda, Elena y Declerck, Thierry  (2011).  Ontology Lexicalisation: The lemon Perspective.  En: "9th International Conference on Terminology and Artificial Intelligence", 10 noviembre 2011, Paris, Francia.    
+
+  Montiel-Ponsoda, Elena; Aguado de Cea, G. y McCrae, J.  (2011).  Representing term variation in lemon.  En: "9th International Conference on Terminology and Artificial Intelligence", 10 noviembre 2011, Paris, Francia.    
+
+  Ramos, JA. y Vilches-Blázquez, LM.  (2011).  Conflación semántica sobre Linked Data.  En: "XIV Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA2011)", 7-10 noviembre 2011, La Laguna, España.    
+
+  Suárez-Figueroa, Mari Carmen; Atemezing, Ghislain Auguste y Corcho, Oscar  (2011).  The landscape of multimedia ontologies in the last decade.   "Multimedia Tools and Applications" ;    ISSN 1380-7501.    
+
+  Montiel-Ponsoda, Elena; Gracia del Río, Jorge; Aguado de Cea, G. y Gómez-Pérez, A.  (2011).  Representing Translations on the Semantic Web.  En: "2nd International Workshop on the Multilingual Semantic Web (MSW 2011) In conjunction with the International Semantic Web Conference (ISWC2011)", 23 Octubre 2011, Bonn, Germany. ISBN ISSN 1613-0073.    
+
+  Suárez-Figueroa, Mari Carmen; García-Castro, Raúl; Villazón-Terrazas, B. y Gómez-Pérez, A.  (2011).  Essentials In Ontology Engineering: Methodologies, Languages, And Tools.  En: "CIB conference W078-W012 - 2nd Workshop on eeBuildings Data Models", 26-28 octobre 2011, Sophia Antipolis, Francia.    
+
+  Gray, A.; Sadler, J.; Kit, O.; Kyzirakos, K.; Karpathiotakis, M.; Calbimonte, JP.; Page, K.; García-Castro, Raúl; Frazer, A.; Galpin, I.; Fernandes, A.; Paton, N.; Corcho, Oscar; Koubarakis, M.; Roure, D.; Martinez, K. y Gómez-Pérez, A.  (2011).  A Semantic Sensor Web for Environmental Decision Support Applications.   "Sensors", v. 11  (n. 9);    ISSN 1424-8220.    
+
+  Garijo Verdejo, Daniel; Villazón-Terrazas, B. y Corcho, Oscar  (2011).  A Provenance-Aware Linked Data Application for Trip Management and Organization.  En: "7th International Conference on Semantic Systems", 7–9 September 2011, Graz, Austria. ISBN 978-1-4503-0621-8.    
+
+  Roussey, C.; Pinet, F.; Ah Kang, M. y Corcho, Oscar  (2011).  An Introduction to Ontologies and Ontology Engineering.   En:  "Ontologies in Urban Development Projects".   Springer-Verlag.  ISBN 978-0-85729-724-2.     
+
+  Palacios, J.M.; Fernández, M.; Corcho, Oscar; Méndez, V. y Gómez-Pérez, José Manuel  (2011).  Semantically enabling UPnP Networks of Multimedia Home Content.   "IEEE Latin America Transactions", v. 9  (n. 4);   pp. 586-592.  ISSN 1548-0992.    
+
+  Radulovic, F.  (2011).  Software quality model for the evaluation of semantic technologies.  Tesis (Master), Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  García-Silva, A.; Jakob, Max; Mendes, Pablo N. y Bizer, Christian  (2011).  Multipedia: Enriching DBpedia with Multimedia Information.  En: "3rd The Sixth International Conference on Knowledge Capture, K-CAP 2011", 25/06/2011-29/06/2011, Banff, Alberta, Canada.    
+
+  Radulovic, F. y García-Castro, Raúl  (2011).  Towards a Quality Model for Semantic Technologies.  En: "International Conference on Computational Science and Its Applications - ICCSA 2011", Junio 2011, Santander, Spain. ISBN 978-3-642-21933-7.    
+
+  Buil-Aranda, C.; Arenas, M. y Corcho, Oscar  (2011).  Semantics and Optimization of the SPARQL 1.1 Federation Extension.  En: "8th Extended Semantic Web Conference", 31/05/2011-02/06/2011. ISBN 978-3-642-21033-4.    
+
+  Calbimonte, JP.; Jeung, H.; Corcho, Oscar y Aberer, K.  (2011).  Semantic Sensor Data Search in a Large-Scale Federated Sensor Network.  En: "4th International Workshop on Semantic Sensor Networks 2011 in ISWC 2011", 23 Octubre 2011, Bonn, Germany.    
+
+  García-Castro, Raúl  (2011).  SET-MM – A Software Evaluation Technology Maturity Model.  En: "SEKE 2011", 7-9 July-2011, Eden Roc Renaissance Miami Beach, Florida, USA. ISBN 978-1-891706-29-5.    
+
+  García-Castro, Raúl  (2011).  Sustainability of Evaluations Presented in Research Publications.  En: "8th Extended Semantic Web Conference (ESWC)", 31/05/2011.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2011).  Perspectives in Semantic Interoperability.  En: "International Workshop on Semantic Interoperability IWSI 2011 In conjunction with ICAART 2011", January, 2011, Rome, Italy. ISBN 978-989-8425-43-0.    
+
+  Gluhak, A.; Hauswirth, M.; Krco, S.; Stojanovic, N.; Bauer, M.; Nielsen, R.; Haller, S.; Prasad, N.; Reynolds, V. y Corcho, Oscar  (2011).  An Architectural Blueprint for a Real-World Internet.   En:  "The Future Internet - Future Internet Assembly 2011: Achievements and Technological Promises".   Springer-Verlag, pp. 67-80.  ISBN 978-3-642-20897-3.     
+
+  Gracia del Río, Jorge; Bernad, J. y Mena, E.  (2011).  Ontology Matching with CIDER: evaluation report for OAEI 2011.  En: "6th International Workshop on Ontology Matching (OM-2011) In conjunction with the International Semantic Web Conference (ISWC2011)", 24 Octubre 2011, Bonn, Germany. ISBN ISSN 1613-0073.    
+
+  Gracia del Río, Jorge; Montiel-Ponsoda, Elena; Cimiano, Philipp; Gómez-Pérez, A.; Buitelaar, Paul y McCrae, J.  (2011).  Challenges for the Multilingual Web of Data.   "International Jounal on Semantic Web and Information Systems" ;    ISSN 1552-6283.    
+
+  Gray, A.; García-Castro, Raúl; Kyzirakos, K.; Karpathiotakis, M.; Calbimonte, JP.; Page, K.; Sadler, J.; Corcho, Oscar; Koubarakis, M.; De Roure, D.; Martinez, K. y Gómez-Pérez, A.  (2011).  A Semantically Enabled Service Architecture for Mashups over Streaming and Stored Data.  En: "8th Extended Semantic Web Conference", 31/05/2011-02/06/2011. ISBN 978-3-642-21033-4.    
+
+  López-Pellicer, FJ.; Vilches-Blázquez, LM.; Zarazaga-Soria, FJ.; Muro-Medrano, PR. y Corcho, Oscar  (2011).  The Delft Report: Linked Data and the challenges for geographic information standardization.  En: "Jornadas Ibéricas de Infraestructuras de Datos Espaciales 2011 (JIIDE 2011)", 9-11 noviembre 2011, Barcelona, España.    
+
+  Mendes, Pablo N.; Jakob, Max; García-Silva, A. y Bizer, Christian  (2011).  DBpedia Spotlight: Shedding Light on the Web of Documents.  En: "7th International Conference on Semantic Systems", 7–9 September 2011, Graz, Austria.    
+
+  Mora, Jose y Corcho, Oscar  (2011).  Ecient Inference-aware RDB2RDF Query Rewriting.  En: "8th Extended Semantic Web Conference (ESWC2011)", 29 May 2011 - 02 June 2011, Heraklion, Grecia. ISBN 978-3-642-21033-4.    
+
+  Muñoz-García, O.; García-Silva, A.; Corcho, Oscar; Higuera Hernández, M. de la y Navarro, C.  (2011).  Identifying Topics in Social Media Posts using DBpedia.  En: "Networked and Electronic Media Summit (NEM summit 2011)", 27-29 September 2011, Torino, Italy.    
+
+  Vilches-Blázquez, LM.  (2011).  Metodología para la integración basada en ontologías de información de bases de datos heterogéneas en el dominio hidrográfico .  Tesis (Doctoral), E.T.S.I. en Topografía, Geodesia y Cartografía (UPM) <http://oa.upm.es/view/institution/Topografia/>.    
+
+  Villazón-Terrazas, B.  (2011).  Method for Reusing and Re-engineering Non-ontological Resources for Building Ontologies.  Tesis (Doctoral), Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Calbimonte, JP.; Corcho, Oscar y Gray, A.  (2010).  Enabling Ontology-based data access to streaming sources.  En: "9th international sematic web confeerence, ISWC 2010", 07/11/2010-11/11/2010, Shangai, China. ISBN 978-3-642-17745-3.    
+
+  Corcho, Oscar y García-Castro, Raúl  (2010).  Five Challenges for the Semantic Sensor Web.   "Semantic Web - Interoperability, Usability, Applicability", v. 1  (n. 1-2);   pp. 121-125.  ISSN 1570-0844.   https://doi.org/10.3233/SW-2010-0005 <https://doi.org/10.3233/SW-2010-0005>. 
+
+  Garcia, Alexander; O’Neill, Kieran; Garcia, Leyla Jael; Lord, Phillip; Stevens, Robert; Corcho, Oscar y Gibson, Frank  (2010).  Developing Ontologies withing Decentralized Settings.   En:  "Semantic e-Science".   Annals of Information Systems, 11 .  Springer-Verlag, Berlín, Alemania, pp. 99-139.  ISBN 978-1-4419-5908-9.    https://doi.org/10.1007/978-1-4419-5908-9_4 <https://doi.org/10.1007/978-1-4419-5908-9_4>. 
+
+  Villazón-Terrazas, B.; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2010).  A Pattern-Based Method for Re-Engineering Non-Ontological Resources into Ontologies.   "International Jounal on Semantic Web and Information Systems", v. 6  (n. 4);   pp. 27-63.     
+
+  Esteban-Gutiérrez, M.; García-Castro, Raúl y Gómez-Pérez, A.  (2010).  Executing Evaluations over Semantic Technologies using the SEALS Platform.  En: "WOP 2010 International Workshop on Evaluation of Semantic Technology", 08 November 2010, Shanghai, China. ISBN ISSN: 1613-0073.    
+
+  García-Castro, Raúl; Grimm, S.; Toma, I.; Schneider, M. y Marte, A.  (2010).  The SEALS Yardsticks for Ontology Management.  En: "International Workshop on Evaluation of Semantic Technologies (IWEST 2010)", 8 Noviembre 2010, Shanghai, China. ISBN 1613-0073.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2010).  Interoperability results for Semantic Web technologies using OWL as the interchange language.   "Web Semantics: Science, Services and Agents on the World Wide Web", v. 8  (n. 4);   pp. 278-291.  ISSN 1570-8268.    
+
+  Gracia del Río, Jorge; Liem, Jochem; Lozano, Esther; Corcho, Oscar; Trna, Michal; Gómez-Pérez, A. y Bredeweg, Bert  (2010).  Semantic Techniques for Enabling Knowledge Reuse in Conceptual Modelling.  En: "9th International Semantic Web Conference, ISWC2010", 07/11/2010 - 11/11/2010, Shangai, China. ISBN 978-3-642-17748-4.    
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2010).  Reusing Ontology Design Patterns in a Context Ontology Network.  En: "Second Workshop on Ontology Patterns (WOP 2010) co-located at ISWC 2010", 08 de Noviembre 2010, Shangai, China. ISBN ISSN: 1613-0073.    
+
+  Vilches-Blázquez, LM.; Villazón-Terrazas, B.; Saquicela, V.; León, A. de; Corcho, Oscar y Gómez-Pérez, A.  (2010).  GeoLinked Data and INSPIRE through an Application Case.  En: "18th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL GIS 2010)", 2-5 November 2010, San Jose, California. ISBN 978-1-4503-0428-3.    
+
+  García-Silva, A.; Corcho, Oscar y Gracia del Río, Jorge  (2010).  Associating Semantics to Multilingual Tags in Folksonomies.  En: "17th International Conference on Knowledge Engineering and Knowledge Management, EKAW2010", 11/10/2010 - 15/10/2010, Lisboa, Portugal. ISBN 978-3-6421-6438-5.    
+
+  Gómez-Pérez, José Manuel; Erdmann, M.; Greaves, M.; Corcho, Oscar y Benjamins, R.  (2010).  A framework and computer system for knowledge-level acquisition, representation, and reasoning with process knowledge.   "International Journal of Human-Computer Studies", v. 68  (n. 10);   pp. 641-668.  ISSN 1071-5819.   https://doi.org/10.1016/j.ijhcs.2010.05.004 <https://doi.org/10.1016/j.ijhcs.2010.05.004>. 
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen; García-Castro, Raúl y Gómez-Pérez, A.  (2010).  A Context Ontology for Mobile Environments.  En: "Workshop on Context, Information and Ontologies - CIAO 2010 Co-located with EKAW 2010", October 11, 2010, Lisbon, Portugal. ISBN ISSN: 1613-0073.    
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2010).  A Double Classification of Common Pitfalls in Ontologies.  En: "Workshop on Ontology Quality (OntoQual 2010), Co-located with EKAW 2010", October 15, 2010, Lisbon, Portugal. ISBN ISSN 1613-0073.    
+
+  Rico-Almodóvar, Mariano; Macías, J. A.; Camacho, David y Corcho, Oscar  (2010).  A Tool Suite to Enable Web Designers, Web Application Developers and End-users to Handle Semantic Data.   "International Journal on Semantic Web and Information Systems", v. 6  (n. 3);   pp. 38-60.  ISSN 1552-6283.   https://doi.org/10.4018/jswis.2010070103 <https://doi.org/10.4018/jswis.2010070103>. 
+
+  Vilches-Blázquez, LM.; Villazón-Terrazas, B.; Corcho, Oscar y Gómez-Pérez, A.  (2010).  GeoLinked Data. An application case / Un caso de aplicación.  En: "I Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE 2010)", 27-29 October 2010, Lisbon, Portugal.    
+
+  León, A. de; Saquicela, V.; Vilches-Blázquez, LM.; Villazón-Terrazas, B.; Priyatna, F. y Corcho, Oscar  (2010).  Geographical Linked Data: a Spanish Use Case.  En: "I-SEMANTICS 6th International Conference on Semantic Systems", 1 – 3 September 2010, Graz, Austria. ISBN 978-1-4503-0014-8.    
+
+  Vilches-Blázquez, LM.; Villazón-Terrazas, B.; León, A. de; Priyatna, F. y Corcho, Oscar  (2010).  An Approach to Publish Spatial Data on the Web: The GeoLinked Data Case.  En: "Workshop on Linked SpatioTemporal Data 2010 in conjunction with the 6th International Conference on Geographic Information Science , GIScience 2010", 14/09/2010 - 17/09/2010, Zurich, Suiza. ISBN ISSN 1613-0073.    
+
+  Barrios, MA. y Vilches-Blázquez, LM.  (2010).  Is it possible to enrich ontologies with a specialized domain linguistic resource?.  En: "TKE - Terminology and Knowledge Engineering Conference 2010", 14 August 2010, Dublin, Ireland. ISBN 978-0-9566314-0-4.    
+
+  Saquicela, V.; Vilches-Blázquez, LM. y Corcho, Oscar  (2010).  Semantic Annotation of RESTful Services Using External Resources.  En: "1st Workshop on Service Web Engineering, SWEng, in conjunction with 10th International Conference on Web Engineering, ICWE", 05/07/2010 - 09/07/2010, Viena, Austria. ISBN 978-3-642-16985-4.    
+
+  Aguado de Cea, G.; Gómez-Pérez, A.; Montiel-Ponsoda, Elena y Vilches-Blázquez, LM.  (2010).  Rivière or Fleuve? Modelling Multilinguality in the Hydrographical.  En: "1st Workshop on the Multilingual Semantic Web (MSW 2010)", 27/04/2010-27/04/2010, Raleigh, North Carolina, USA. ISBN ISSN 1613-0073.    
+
+  Rico-Almodóvar, Mariano; Camacho, David y Corcho, Oscar  (2010).  A Contribution-based Framework for the Creation of Semantically-enabled Web Applications.   "Information Sciences", v. 180  (n. 10);   pp. 1850-1864.  ISSN 0020-0255.   https://doi.org/10.1016/j.ins.2009.07.004 <https://doi.org/10.1016/j.ins.2009.07.004>. 
+
+  Cimiano, Philipp; Montiel-Ponsoda, Elena; Buitelaar, Paul; Espinoza, M. y Gómez-Pérez, A.  (2010).  A Note on Ontology Localization.   "Applied Ontology", v. 5  (n. 2);   pp. 127-137.     
+
+  Xing, W.; Corcho, Oscar; Goble, C. y Dikaiakos, M.  (2010).  An ActOn-based Semantic Information Service for EGEE.   "Future Generation of Computer Systems", v. 26 ;   pp. 324-336.     
+
+  Bredeweg, Bert; Liem, Jochem; Linnebank, Floris; Bühling, René; Wißner, Michael; Gracia del Río, Jorge; Salles, P.; Beek, W. y Gómez-Pérez, A.  (2010).  DynaLearn: Architecture and Approach for Investigating Conceptual System Knowledge Acquisition.  En: "8th International Conference on Intelligent Tutoring Systems", November 2010, Pennsylvania, EEUU. ISBN 978-3-642-13436-4.    
+
+  Corcho, Oscar; Gómez-Pérez, A. y Vilches-Blázquez, LM.  (2010).  LinkedData en el dominio geográfico español y posibles aplicaciones.  En: "XI Jornadas sobre Tecnologías de la Información para la Modernización de las Administraciones Públicas, Tecnimap 2010", 06/04/2010 - 09/04/2010, Zaragoza, España.    
+
+  Corcho, Oscar; Roussey, Catherine; Šváb-Zamazal, Ondřej y Scharffe, François  (2010).  SPARQL-based Detection of Antipatterns in OWL Ontologies.  En: "Knowledge Engineering and Knowledge Management by the Masses, EKAW 2010", 11/10/2010 - 15/10/2010, Lisboa, Portugal. ISBN ISSN 1613-0073.    
+
+  García-Castro, Raúl; Esteban-Gutiérrez, M. y Gómez-Pérez, A.  (2010).  Towards an Infrastructure for the Evaluation of Semantic Technologies.  En: "eChallenges e-2010 Conference", 27/10/2010 - 29/10/2010, Varsovia, Polonia. ISBN 978-1-4244-8390-7.    
+
+  García-Castro, Raúl; Esteban-Gutiérrez, M.; Kerrigan, M. y Grimm, S.  (2010).  An Ontology Model to Support the Automated Evaluation of Software.  En: "22nd International Conference on Software Engineering and Knowledge Engineering, SEKE 2010", 01/07/2010 - 03/07/2010, Redwood City, EEUU.    
+
+  Pareja-Lora, A. y Aguado de Cea, G.  (2010).  Modelling Discourse-related terminology in OntoLingAnnot’s ontologies.  En: "Workshop on 'Establishing and using ontologies as a basis for terminological and knowledge engineering resource", 11-14 August 2010, Dublin, Ireland.    
+
+  Poveda Villalon, Maria y Suárez-Figueroa, Mari Carmen  (2010).  SimpleOrAggregated.  En: "9th International Semantic Web Conference, ISWC 2010", 08/11/2010 - 08/11/2010, Shanghai, China. ISBN 9783642177460.    
+
+  Poveda Villalon, Maria y Suárez-Figueroa, Mari Carmen  (2010).  Summarization of an Inverse n-ary Relation.  En: "9th International Semantic Web Conference, ISWC 2010", 08/11/2010 - 08/11/2010, Shanghai, China. ISBN 9783642177460.    
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2010).  Common Pitfalls in Ontology Development.  En: "The 13th Conference of the Spanish Association for Artificial Intelligence, CAEPIA 2009", Noviembre 2009, Sevilla, España. ISBN 13 978-3-642-14263-5.    
+
+  Suárez-Figueroa, Mari Carmen; Gómez-Pérez, A.; Muñoz-García, O. y Vigo, Martin  (2010).  gOntt, a Tool for Scheduling and Executing Ontology Development Projects.  En: "The 22nd International Conference on Software Engineering and Knowledge Engineering, SEKE 2010.", 01/07/2010 - 03/07/2010, San Francisco, USA. ISBN 1-891706-26-8.    
+
+  Umbrich, J.; Villazón-Terrazas, B. y Hausenblas, M.  (2010).  Dataset Dynamics Compendium: A Comparative Study.  En: "First International Workshop on Consuming Linked Data (COLD2010)", 08 November 2010, Pekin, China. ISBN 1613-0073.    
+
+  Villazón-Terrazas, B.; Gómez-Pérez, A. y Calbimonte, JP.  (2010).  NOR2O: a Library for Transforming Non-Ontological Resources to Ontologies.  En: "Extended Semantic Web Conference (ESWC 2009)", 28 May 2010, Greece.    
+
+  Vilches-Blázquez, LM. y Ramos, JA.  (2009).  Conflación semántica: Análisis de fenómenos en el contexto de los WFS.  En: "JIDEE 2009: VI Jornadas Técnicas de la IDE en España.", 4-6 de noviembre de 2009, Murcia, España. ISBN 978-84-87138-56-0.    
+
+  Deelman, E.; Berriman, B.; Chervenak, A.; Corcho, Oscar; Groth, P. y Moreau, L.  (2009).  Metadata and provenance management.   En:  "Scientific Data Management: Challenges, Existing Technology, and Deployment".   CRC Press, Taylor and Francis Group, Florida, USA, pp. 433-466.  ISBN 978-1-4200-6980-8.     
+
+  Barrios, MA.; Aguado de Cea, G. y Ramos, JA.  (2009).  Enriching a lexicographic tool with domain definitions: Problems and solutions.  En: "1st International Workshop on Definition Extraction (WDE'09) en International Conference RANLP-2009", 18 de septiembre de 2009, Borovets, Bulgaria. ISBN 978-954-452-013-7.    
+
+  Barrios, Maria; Aguado de Cea, G. y Ramos, José A.  (2009).  Semantic labels and genus: improving specialized domain definitions.  En: "TIA'09: 8ème Conférence Internationale Terminologie et Intelligence Artificielle / 8th International Conference on Terminology and Artificial Intelligence", 18/11/2009-20/11/2009, Toulouse, Francia.    
+
+  Ramos, JA.; Fernández-López, M. y Gómez-Pérez, A.  (2009).  Algoritmo de agregación de mappings basado en reglas de selección.  En: "Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA’2009)", 10-12 de noviembre de 2009, Sevilla, España. ISBN 978-84-692-6424-9.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I. y Montiel-Ponsoda, Elena  (2009).  From linguistic patterns to ontology structures.  En: "8th International Conference on Terminology and Artificial Intelligence, TIA 2009", 18/11/2009-20/11/2009, Toulouse, France.    
+
+  Lamsfus, Carlos; Martín, David; Alzua-Sorzabal, Aurkene; Cadenas, Alejandro; Ruiz, Carlos; García-Castro, Raúl y Poveda, María  (2009).  Servicios turísticos en función del contexto basados en semántica.  En: "XIX Jornadas Telecom I+D (Telecom I+D 2009)", 24-26 noviembre 2009, Madrid, Spain.    
+
+  Vilches-Blázquez, LM. y Corcho, Oscar  (2009).  A heuristic approach to generate good-quality linked data about hydrography.  En: "20th International Workshop on Database and Expert Systems Application, 2009. DEXA '09.", 31/08/2009 - 04/09/2009., Linz, Austria. ISBN 978-0-7695-3763-4.    
+
+  Villazón-Terrazas, B.; Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2009).  Pattern for Re-engineering a Classification Scheme, which Follows the Adjacency List Data Model, to a Taxonomy.  En: "Workshop on Ontology Patterns, WOP 2009", 25/10/2009 - 25/10/2009, Washington DC, USA. ISBN ISSN 1613-0073.    
+
+  Corcho, Oscar; Roussey, C.; Vilches-Blázquez, LM. y Perez Dominguez, Iván  (2009).  Pattern-based OWL Ontology Debugging Guidelines.  En: "Workshop on Ontology Patterns (WOP 2009)", 25/10/2009 - 25/10/2009, Washington D.C., USA.    
+
+  García-Castro, Raúl; Gómez-Pérez, A.; Cabral, L.; Nixon, Lindon y SEALS Consortium, .  (2009).  Supporting Experimentation via an Evaluation Infrastructure for Semantic Technologies.  En: "2nd Future Internet Symposium (FIS 2009)", 1-3 September 2009, Berlin, Germany.    
+
+  Roussey, C.; Corcho, Oscar y Vilches-Blázquez, LM.  (2009).  A Catalogue of OWL Ontology AntiPatterns.  En: "Fifth International Conference on Knowledge Capture (K-CAP’09)", 1 – 4 September, 2009., Redondo Beach, California (USA). ISBN 978-1-60558-658-8.    
+
+  Aguado de Cea, G.; Montiel-Ponsoda, Elena y Suárez-Figueroa, Mari Carmen  (2009).  Approaches to ontology development by non ontology experts.  En: "International Symposium on Data and Sense Mining, Machine Translation and Controlled Languages, ISMTCL", 1-3 de julio de 2009, Besançon, Francia. ISBN 978-2-84867-261-8.    
+
+  Esteban-Gutiérrez, M.; Kojima, I.; Pahlevi, S. M.; Corcho, Oscar y Gómez-Pérez, A.  (2009).  Accessing RDF(S) data resources in service-based Grid infrastructures.   "Concurrency and Computation-Practice &amp; Experience", v. 21  (n. 8);   pp. 1029-1051.  ISSN 1532-0626.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2009).  SEALS: Semantic Evaluation At Large Scale.  En: "6th European Semantic Web Conference (ESWC 2009)", 31 May - 4 June 2009, Heraklion, Greece.    
+
+  Vilches-Blázquez, LM.; Ramos, JA.; López-Pellicer, FJ.; Corcho, Oscar y Nogueras-Iso, J.  (2009).  An approach to comparing different ontologies in the context of hydrographical information.  En: "International Workshop Information Fusion and Geographical Information Systems (IF&GIS'09)", 17-20 de mayo de 2009, San Petesburgo, Rusia. ISBN ISSN 1863-2246.    
+
+  Corcho, Oscar; Roussey, C. y Vilches-Blázquez, LM.  (2009).  Catalogue of Anti-Patterns for formal Ontology debugging.  En: "20es Journées Francophones d’Ingénierie des Connaissances", del 25 al 29 de Mayo de 2009, Hammamet, Tunisia.. ISBN 978-2-7061-1538-7, PUG..    
+
+  Gracia, Jorge; D’Aquin, Mathieu y Mena, E.  (2009).  Large Scale Integration of Senses for the Semantic Web.  En: "18th International World Wide Web Conference (WWW 2009)", April 2009, Madrid, Spain. ISBN 978-1-60558-487-4.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2009).  Benchmarking in the Semantic Web.   En:  "Software Applications: Concepts, Methodologies, Tools, and Applications".   Information Science Reference – IGI Global, pp. 3489-3518.  ISBN 978-1-60566-060-8.     
+
+  Palma, R.; Haase, Peter; Corcho, Oscar; Gómez-Pérez, A. y Ji, Qiu  (2009).  An Editorial Workflow Approach For Collaborative Ontology Development.  En: "3rd Asian Semantic Web Conference, ASWC2008", 08/12/2008 - 11/12/2008, Bangkok, Thailand. ISBN 978-3-540-89703-3.    
+
+  Poveda Villalon, Maria  (2009).  Red de ontologías para el Camino de Santiago.  Proyecto Fin de Carrera / Trabajo Fin de Grado, Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Aguado de Cea, G.; Gómez-Pérez, A. y Montiel-Ponsoda, Elena  (2009).  Enriching Ontologies with Multilingual Information.  En: "III Jornadas Sobre Modelos Y Técnicas Para El Acceso A La Información Multilingüe Y Multimodal En La Web", 5-6 February 2009.    
+
+  García-Castro, Raúl; Gómez-Pérez, A.; Muñoz-García, O. y Nixon, L.  (2009).  Towards a component-based framework for developing Semantic Web applications.  En: "3rd Asian Semantic Web Conference (ASWC 2008)", 2- 5 February 2009, Bangkok, Thailand. ISBN 978-3-540-89703-3.    
+
+  Aguado de Cea, G. y Montiel-Ponsoda, Elena  (2009).  When Phraseology and Ontologies Meet.  En: "XI Simposio Internacional de Comunicación Social", 19-23 de enero de 2009, Santiago de Cuba, Cuba. ISBN 978-959-7174-14-1.    
+
+  García-Castro, Raúl y García-Silva, A.  (2009).  Anotación de contenidos en la Web del futuro.   "Novática"  (n. 197);   pp. 28-32.  ISSN 0211-2124.    
+
+  Aguado de Cea, G.  (2009).  Terminología, Ontologías y Multilingualidad.   "Revista Puntoycoma"  (n. 115);   pp. 1-10.  ISSN 1830-5415.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I. y Pareja-Lora, A.  (2009).  Una visión interdisciplinar de la anotación semántica.   En:  "Terminología y Sociedad del conocimiento".   Peter Lang, pp. 219-254.  ISBN 978-3-0-3911-593-8.     
+
+  Cadenas, Alejandro; Ruiz, Carlos; Larizgoitia, Iker; García-Castro, Raúl; Lamsfus, Carlos; Vázquez, Iñaki; González, Marta; Martín, David y Poveda Villalon, Maria  (2009).  Context Management in Mobile Environments: a Semantic Approach.  En: "Workshop on Context, Information and Ontologies, CIAO 2009", 01/06/2009 - 01/06/2009, Heraklion, Grecia. ISBN 978-1-60558-528-4.    
+
+  García-Ramos, S.; Otero-Quintana, A. y Fernández-López, M.  (2009).  OntologyTest: A Tool to Evaluate Ontologies through Tests Defined by the User.   En:  "OntologyTest: A Tool to Evaluate Ontologies through Tests Defined by the User".   Springer-Verlag.     
+
+  García-Silva, A.; Szomszor, M.; Alani, H. y Corcho, Oscar  (2009).  Preliminary Results in Tag Disambiguation using DBpedia.  En: "First International Workshop Collective Knowledge Capturing and Representation CKCaR09", September 2009, Redondo Beach, California, USA.    
+
+  Hartmann, J.; Palma, R. y Gómez-Pérez, A.  (2009).  Ontology Repositories.   En:  "Handbook on Ontologies".   International Handbooks on Information Systems .  Springer, pp. 551-572.  ISBN 978-3-540-70999-2.     
+
+  Muñoz-García, O. y García-Castro, Raúl  (2009).  Guidelines for the Specification and Design of Large-Scale Semantic Applications.  En: "4th Asian Semantic Web Conference, ASWC 2009)", 06/12/2009 - 09/12/2009, Shangai, China. ISBN 9783642108709.    
+
+  Poveda Villalon, Maria; Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2009).  Malas prácticas en ontologías.  En: "CAEPIA-TTIA 2009", 09/11/2009 - 13/11/2009, Sevilla, España.    
+
+  Vilches-Blázquez, LM.; García-Silva, A. y Villazón-Terrazas, B.  (2009).  Construcción de ontologías a partir de tesauros.   En:  "Semántica Espacial y descubrimiento de conocimientos para desarrollo sostenible".   CUJAE, pp. 59-78.  ISBN 978-959-261-282-2.     
+
+  García-Castro, Raúl; Muñoz-García, O. y Gómez-Pérez, A.  (2008).  Facilitating Requirements Engineering of Semantic applications.  En: "Semantic Web Applications and Perspectives (SWAP 2008)", 15/12/2008 - 17/12/2008, Rome, Italy. ISBN 1613-0073.    
+
+  Fernández-López, M.; Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2008).  Selecting and Customizing a Mereology Ontology for its Reuse in a Pharmaceutical Product Ontology.  En: "The 5th International Conference on Formal Ontologies in Information Systems (FOIS 2008)", October 31-November 3, 2008, Saarbrücken, GERMANY. ISBN 978-1-58603-923-3.    
+
+  Gómez-Pérez, A. y Ramos, JA.  (2008).  Mappings for the Semantic Web.  Monografía (Artículo de trabajo).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, IEEE Intelligent Systems. Trends & Controversies (por invitación).    
+
+  Wright, R.; Sánchez-Gestido, M.; Gómez-Pérez, A.; Perez-Hernandez, M.S.; González-Cabero, R. y Corcho, Oscar  (2008).  A Semantic Data Grid for Satellite Mission Quality Analysis.  En: "7th International Semantic Web Conference (ISWC2008)", October 27, 2008, Karlsruhe, Germany. ISBN 978-3-540-88563-4. pp. 818-832.    
+
+  Buján-Carballal, D.; Corcho, Oscar y Díaz-Labrador, J.  (2008).  Propiedades de Calidad de Servicio en el Descubrimiento de Recursos Grid.  En: "IV Jornadas Científico-Técnicas en Servicios Web y SOA, JSWEB2008", 29/10/2008 - 30/10/2008, Sevilla, España. ISBN 978-84-691-6710-6.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2008).  Benchmarking in the Semantic Web.   En:  "Semantic Web Engineering in the Knowledge Society".   Information Science Reference – IGI Global, pp. 341-370.  ISBN 978-1-60566-112-4.     
+
+  Gómez-Pérez, A.; Ramírez, J.; Villazón-Terrazas, B.; Della Valle, E.; Cerizza, D.; Celino, I.; Fugini, M.; Estublier, J.; Vega, G.; Kerrigan, M.; Zhao, G.; Cesarini, M. y De Paoli, F.  (2008).  The SEEMP Approach to Semantic Interoperability for E-Employment.   En:  "Concurrency and Computation: Practice and Experience".   Springer, pp. 105-124.  ISBN 978-1-60566-066-0.     
+
+  Corcho, Oscar; Losada, S. y Benjamins, R.  (2008).  Semantic Web-enabled Protocol Mediation for the Logistics Domain.   En:  "Semantic Web for Business: Cases and Applications".   IGI Global, Information Science Reference, Hershey, Pennsylvania, pp. 65-82.  ISBN 978-1-60566-066-0.    https://doi.org/10.4018/978-1-60566-066-0.ch004 <https://doi.org/10.4018/978-1-60566-066-0.ch004>. 
+
+  García-Castro, Raúl; Muñoz-García, O. y Gómez-Pérez, A.  (2008).  The Semantic Web Framework: a component-based framework for the development of Semantic Web applications.  En: "19th Internacional Conference on Database and Expert Systems Application (DEXA-WebS 2008)", Septiembre 2008, Turin, Italia. ISBN 978-0-7695-3299-8.    
+
+  Montiel-Ponsoda, Elena y Aguado de Cea, G.  (2008).  Using Natural Language Patterns for the Development of Ontologies.  En: "VII Congreso Internacional de la Asociación Europea de Lenguas para Fines Específicos (AELFE 2008)", 18-20 de septiembre de 2008, La Manga, Murcia, España. ISBN 978-84-691-5718-3.    
+
+  Rico-Almodóvar, Mariano; Camacho, David y Corcho, Oscar  (2008).  VPOET: Using a Distributed Collaborative Platform for Semantic Web Applications.  En: "2nd International Symposium on Intelligent Distributed Computing (IDC2008)", September 18-20, 2008, Catania, Italy. ISBN 978-3-540-85256-8. pp. 167-176.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2008).  Large-scale benchmarking of the OWL interoperability of Semantic Web technologies.  En: "2nd IEEE Internacional Conference on Semantic Computing (ICSC 2008)", 4-7 agosto 2008, Santa Clara, CA, USA. ISBN 978-0-769-53279-0.    
+
+  Montiel-Ponsoda, Elena; Aguado de Cea, G.; Gómez-Pérez, A. y Peters, W.  (2008).  Modelling Multilinguality in Ontologies.  En: "The 22nd International Conference on Computational Linguistics (Coling 2008)", 18-22 de agosto de 2008, Manchester, Reino Unido. ISBN 978-1-905593-47-7).    
+
+  Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2008).  First Attempt towards a Standard Glossary of Ontology Engineering Terminology.  En: "The 8th International Conference on Terminology and Knowledge Engineering", August 18-August 21, 2008, Copenhagen, DENMARK. ISBN 87-91242-50-9.    
+
+  Gómez-Pérez, A.; Ramos, JA.; Rodríguez Pascual, AF. y Vilches-Blázquez, LM.  (2008).  The IGN-E case: Integrating through a hidden ontology.  En: "The 13th International Symposium on Spatial Data Handling (SDH 2008)", 23-25 de junio de 2008, Montpellier, Francia. ISBN 978-3-540-68565-4.    
+
+  Espinoza, M.; Gómez-Pérez, A. y Mena, E.  (2008).  Enriching Ontologies with Multilingual Information.  En: "The Semantic Web: Research and Applications, 5th European Semantic Web Conference, ESWC 2008", June 2008, Tenerife, Spain. ISBN 3-540-68233-3 978-3-540-68233-2.    
+
+  Espinoza, M.; Gómez-Pérez, A. y Mena, E.  (2008).  LabelTranslator: A Tool to Automatically Localize an Ontology.  En: "1st European Semantic Web Conference (ESWC 2008)", 1- 5 June 2008, Tenerife, Spain.    
+
+  Gómez-Pérez, José Manuel y Corcho, Oscar  (2008).  Problem-solving methods for understanding process executions.   "Computing in Science &amp; Engineering", v. 10  (n. 3);   pp. 47-52.  ISSN 0267-6192.    
+
+  López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2008).  ecReport: a collaborative web tool for reporting R&D projects.  En: "R&D Management Conference 2008", 17/06/2008 - 20/06/2008, Ottawa, Canada.    
+
+  Montiel-Ponsoda, Elena; Aguado de Cea, G.; Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2008).  Helping Naive Users to Reuse Ontology Design Patterns.  En: "1st International Workshop on Reuse and Reengineering over the Semantic Web (en la conferencia European Semantic Web Conference (ESWC 2008)", 1-6 de junio de 2008, Tenerife, España. ISBN -.    
+
+  Siles, A.; López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2008).  ODEWiki: A Semantic Wiki That Interoperates with the ODESeW Semantic Portal.  En: "5th European Semantic Web Conference , ESWC2008", 01/06/2008 - 05/06/2008, Tenerife, España. ISBN 978-3-540-68234-9.    
+
+  Aguado de Cea, G.; Puche Alosete, J. y Ramos, JA.  (2008).  Tagging Spanish Texts: the Problem of ‘se’.  En: "Language Resources and Evaluation Conference (LREC 2008)", 28-30 de mayo de 2008, Marrakech, Morocco.. ISBN 2-9517408-4-0.    
+
+  Mora López, José  (2008).  Ejecución de acciones condicionadas por esquemas lingüísticos.  Proyecto Fin de Carrera / Trabajo Fin de Grado, Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, Madrid, España.    
+
+  Belhajjame, K.; Wolstencroft, K.; Corcho, Oscar; Oinn, T.; Tanoh, F.; Williams, A. y Goble, C.  (2008).  Metadata Management in the Taverna Workflow System.  En: "3rd International Workshop on Workflow Systems in e-Science, WSES 2008", 19/05/2008 - 22/05/2008, Lyon, France. ISBN 978-0-7695-3156-4.    
+
+  Manzano-Macho, D.; Gómez-Pérez, A. y Borrajo Millán, Daniel  (2008).  Unsupervised and Domain Independent Ontology Learning: Combining Heterogeneous Sources of Evidence.  En: "Sixth International Language Resources and Evaluation (LREC'08)", 28-30 may 2008, Marrakech, Morocco. ISBN 2-9517408-4-0.    
+
+  Xing, W.; Sakellariou, R.; Corcho, Oscar; Goble, C. y Dikaiakos, M.  (2008).  Grid Metadata Lifetime Control in ActOn.  En: "CoreGrid Integration Workshop, 2008", 02/04/2008 - 04/04/2008, Heraklion, Grecia. ISBN 978-0-387-09456-4.    
+
+  Gómez-Pérez, A. y Ramos, JA.  (2008).  Semantic mappings: out of ontology world limits.  En: "IEEE International Workshop on Ontology Alignment and Visualization (OnAV’08). International Conference on Complex, Intelligent and Software Intensive Systems (CISIS-2008)", 5 de marzo de 2008, Barcelona, España. ISBN 978-0-7695-3109-0.    
+
+  Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2008).  Towards a Glossary of Activities in the Ontology Engineering Field.  En: "The 6th Language Resources and Evaluation Conference", May 28-May 30, 2008, Marrakech, MOROCCO. ISBN 2-9517408-4-0.    
+
+  García-Silva, A.; Gómez-Pérez, A.; Suárez-Figueroa, Mari Carmen y Villazón-Terrazas, B.  (2008).  A Pattern Based Approach for Re-engineering Non-Ontological Resources into Ontologies.  En: "3rd Asian Semantic Web Conference on the Semantic Web, ASWC '08", 08/12/2008-11/12/2008, Bangkok, Tailandia. ISBN 978-3-540-89703-3.    
+
+  Aguado de Cea, G.; Gómez-Pérez, A.; Montiel-Ponsoda, Elena y Suárez-Figueroa, Mari Carmen  (2008).  Natural Language-based Approach for Helping in the Reuse of Ontology Design Patterns.  En: "16th International Conference on Knowledge Engineering and Knowledge Management Knowledge Patterns (EKAW 2008)", 29 de septiembre -3 de octubre de 2008, Acitrezza, Catania, Italia. ISBN 978-3-540-87695-3.    
+
+  Alper, P.; Goble, C. y Corcho, Oscar  (2008).  Understanding semantic aware Grid middleware for e-Science.   "Computing and Informatics", v. 27  (n. 1);   pp. 93-118.  ISSN 1532-0464.    
+
+  Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2008).  Ontologías.   En:  "Inteligencia Artificial".   McGraw-Hill.     
+
+  Gracia, Jorge y Mena, E.  (2008).  Web-Based Measure of Semantic Relatedness.  En: "International Conference on Web Information Systems Engineering (WISE 2008)", September 2008, Auckland , New Zealand. ISBN 978-3-540-85480-7 ISSN 0302-9743.    
+
+  López-Pellicer, FJ.; Vilches-Blázquez, LM.; Nogueras-Iso, J.; Corcho, Oscar; Bernabé, MA. y Rodriguez, A.F.  (2008).  Using a hybrid approach for the development of an ontology in the hydrographical domain.  En: "2nd Workshop Ontologies for urban development: Conceptual models for practitioner", 17 – 18th October, 2007., Castello del Valentino, Turín (Italy). ISBN 88-7488-208-4.    
+
+  Montiel-Ponsoda, Elena y Aguado de Cea, G.  (2008).  Using natural language patterns for the development of ontologies.   En:  "Researching specialized languages".   Universidad de Murcia, Servicio de Publicaciones, pp. 332-345.  ISBN 978-84-691-5718-3.     
+
+  Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2008).  Building Ontology Networks: How to Obtain a Particular Ontology Network Life Cycle?.  En: "International Conference on Semantic Systems (I-SEMANTICS’08)", 3-5, 2008, Graz, AUSTRIA. ISBN ISSN: 0948-695x. Online edition: ISSN 0948-6968.    
+
+  Suárez-Figueroa, Mari Carmen y Gómez-Pérez, A.  (2008).  Redes semánticas y marcos.   En:  "Inteligencia Artificial: Técnicas, Métodos y Aplicaciones".   McGrawHill, pp. 131-170.  ISBN 978-84-481-5618-3.     
+
+  Vilches-Blázquez, LM.; Corcho, Oscar; Rodríguez Pascual, AF. y Bernabe Poveda, Miguel Angel  (2008).  Web Semántica e Información Geográfica: Una interrelación necesaria ante las problemáticas actuales.   "Revista Mapping", v. 125 ;   pp. 76-81.  ISSN 1131-9100.    
+
+  Vilches-Blázquez, LM.; Fernández Wyttenbach, Alberto; Álvarez, Mabel y Bernabe Poveda, Miguel Angel  (2008).  Thesauri Design to improve access to Cartographic Heritage in the context of the Spatial Data Infrastructures.  En: "10th International Conference for Spatial Data Infrastructure (GSDI10)", 25/02/2008-29/02/2008, St. Augustine (Trinidad & Tobago).    
+
+  Vilches-Blázquez, LM.; Ramos Gargantilla, JA.; Corcho, Oscar y Capdevila Subirana, J.  (2008).  Hacia una armonización semántica de la Información Geográfica.   "Hacia una armonización semántica de la Información Geográfica" ;   pp. 727-736.  ISSN 1133-2190.    
+
+  Vilches-Blázquez, LM. y Rodríguez Pascual, AF.  (2008).  Sobre el definir: Recomendaciones para la redacción de definiciones.   "Revista Mapping", v. 129 ;   pp. 16-19.  ISSN 1131-9100.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2007).  ODEDialect: a set of declarative languages for implementing ontology translation systems.   "Journal of Universal Computer Science", v. 13  (n. 12);   pp. 1805-1834.  ISSN 0948-6968.    
+
+  Ramos, JA.  (2007).  Descubrimiento automático de mappings.  En: "I Simposio de Doctorado en Web Semántica. XII Conferencia de la Asociación española para la Inteligencia Artificial (CAEPIA2007)", 13 de noviembre de 2007, Salamanca, España. ISBN 978-84-611-8856-7.    
+
+  Gómez-Pérez, A.; Ramírez, J. y Villazón-Terrazas, B.  (2007).  Reusing Human Resources Management Standards for Employment Services.  En: "First Industrial Results of Semantic Technologies", 11/11/2009-11/11/2009, Busan, Korea.    
+
+  Montiel-Ponsoda, Elena; Aguado de Cea, G.; Suárez-Figueroa, Mari Carmen; Palma, R.; Peters, W. y Gómez-Pérez, A.  (2007).  LexOMV: an OMV extension to capture multilinguality.  En: "OntoLex 2007, workshop en la ISWC 2007 + ASWC 2007. (The 6th International Semantic Web Conference and the 2nd Asian Semantic Web Conference 2007).", 11-15 de noviembre de 2007, Busan, Corea. ISBN -.    
+
+  Muñoz-García, O.; Gómez-Pérez, A.; Iglesias-Sucasas, Marta y Kim, Soonho  (2007).  A Workflow for the Networked Ontologies Lifecycle. A Case Study in FAO of the UN.  En: "XII Conferencia de la Asociación Española para la Inteligencia Artificial. CAEPIA-TTIA 2007", 12-16 November 2007, Salamanca, Spain. ISBN 978-3-540-75270-7.    
+
+  Peters, W.; Montiel-Ponsoda, Elena; Aguado de Cea, G. y Gómez-Pérez, A.  (2007).  Localizing Ontologies in OWL.  En: "OntoLex 2007, workshop en la ISWC 2007 + ASWC 2007. (The 6th International Semantic Web Conference and the 2nd Asian Semantic Web Conference 2007).", 11-15 de noviembre de 2007, Busan, Corea.    
+
+  Tran, T.; Haase, Peter; Lewen, Holger; Muñoz-García, O.; Gómez-Pérez, A. y Studer, R.  (2007).  Lifecycle-Support in Architectures for Ontology-Based Information Systems.  En: "ISWC 2007 + ASWC 2007. The 6th International Semantic Web Conference and the 2nd Asian Semantic Web Conference 2007", 11-15 November 2007, Busan, South Korea. ISBN 3540762973, 9783540762973.    
+
+  Vilches-Blázquez, LM.; Cañete Pérez, JA.; Corcho, Oscar; Bernabe Poveda, Miguel Angel y Rodríguez Pascual, AF.  (2007).  Pertinencia de Aplicación de la Ingeniería Ontológica a la Planificación Hidráulica del Territorio.  En: "5th International Congress for Spatial Planning", 22 – 24th November, 2007., Málaga (Spain). ISBN 978-84-691-9144-6.    
+
+  Celino, I.; Cesarini, M.; Cerizza, D.; Della Valle, E.; De Paoli, F.; Estublier, J.; Fugini, M.; Guarrera, P.; Gutowski, Z.; Mezzanzanica, M.; Ramírez, J.; Villazón-Terrazas, B.; Kerrigan, M. y Zhao, G.  (2007).  SEEMP: A marketplace for the Labour Market.  En: "International e-Challenges Conference", 24 October 2007, The Hague, Netherlands.    
+
+  Rodríguez Pascual, AF.; Mas Mayoral, S.; Abad Power, P.; Alonso Jiménez, JA.; Ayuso González, JE.; Sánchez Maganto, A. y Vilches-Blázquez, LM.  (2007).  Una nueva etapa: hacia la IDE 2.0.  En: "IV Jornadas de la Infraestructura de Datos Espaciales de España (JIDEE)", 17-19/10/2077. ISBN 84-690-8674-2.    
+
+  Rodríguez Pascual, AF.; Sanz Alonso, JL.; Alonso Jiménez, JA.; Abad Power, P.; Sánchez Maganto, A. y Vilches-Blázquez, LM.  (2007).  How to deal with terrestrial and oceanic information using SDI technologies.  En: "8th International Symposium on GIS and Computer Mapping for Coastal Zone Management (coastGIS’07)", 8 – 10 October 2007, Santander (Spain).    
+
+  Aguado de Cea, G. y Montiel-Ponsoda, Elena  (2007).  Benefits of Ontologies to Multilingual Needs.  En: "VI Congreso Internacional de la Asociación Europea de Lenguas para Fines Específicos (AELFE 2007)", 13 – 15 de septiembre de 2007, Lisboa, Portugal. ISBN 978-972-986-46-1-2.    
+
+  Corcho, Oscar; Alper, P.; Missier, P.; Bechhofer, S. y Goble, C.  (2007).  Grid metadata management: requirements and architecture.  En: "8th IEEE/ACM International Conference on Grid Computing, Grid 2007", 19/09/2007 - 21/09/2007, Austin, Texas, EEUU. ISBN 978-1-4244-1560-1.    
+
+  Esteban-Gutiérrez, M.; Gómez-Pérez, A.; Corcho, Oscar y Muñoz-García, O.  (2007).  WS-DAIOnt-RDF(S): Ontology access provision in Grids.  En: "8th IEEE/ACM International Conference on Grid Computing (Grid2007)", September 19-21, Austin, Texas. ISBN 1-4244-1560-8. pp. 89-96.    
+
+  Gómez-Pérez, A.; Ramírez, J. y Villazón-Terrazas, B.  (2007).  An Ontology for Modelling Human Resources Management based on Standards.  En: "11th International Conference on Knowledge-Based Intelligent Information & Engineering Systems", 12 al 14 de Septiembre de 2007, Vietri sul Mare, Italy. ISBN 978-3-540-74817-5.    
+
+  Ortiz-Rodriguez, F.; Palma, R. y Villazón-Terrazas, B.  (2007).  EgoIR: ontology-based information retrieval intended for eGovernment.  En: "2nd International Applications of Semantic Technologies (AST) Workshop – Informatik 2007", 25 de Septiembre de 2007, Bremen, Alemania. ISBN 978-3-88579-203-1.    
+
+  Xing, W.; Corcho, Oscar; Goble, C. y Dikaiakos, M.  (2007).  ActOn: A Semantic Information Service for EGEE.  En: "8th IEEE/ACM International Conference on Grid Computing, Grid 2007", 19/09/2007 - 21/09/2007, Austin, Texas, EEUU. ISBN 978-1-4244-1559-5.    
+
+  Vilches-Blázquez, LM.; Rodríguez Pascual, AF.; Mezcua Rodríguez, J.; Bernabe Poveda, Miguel Angel y Corcho, Oscar  (2007).  An approach towards a harmonized framework for hydrographic features domain.  En: "XXIII International Cartographic Conference", 04/08/2007 - 10/08/2007, Moscow, Russia.    
+
+  Xing, W.; Corcho, Oscar; Goble, C. y Dikaiakos, M.  (2007).  Active Ontology: An Information Integration Approach for Dynamic Information Sources.  En: "2nd International Workshop on Semantic Grid and Grid Computing, SGC-07, in conjunction with the International Symposium on Parallel and Distributed Processing and Applications, ISPA-2007", 29/08/2007 - 31/08/2007, Niagara Falls, Canada. ISBN 9783540747666.    
+
+  Xing, W.; Corcho, Oscar; Goble, C. y Dikaiakos, M.  (2007).  Information Quality Evaluation for Grid Information Services.  En: "CoreGrid Symposium 2007", August 27-28, 2007, IRISA, Rennes, France. ISBN 978-0-387-72497-3. pp. 165-174.    
+
+  García-Castro, Raúl; Gómez-Pérez, A. y Sure, Y.  (2007).  Benchmarking the RDF(S) interoperability of ontology tools.  En: "19th International Conference on Software Engineering and Knowledge Engineering (SEKE2007)", 9-11 July 2007, Boston, USA. ISBN 1-891706-20-9.    
+
+  Gómez-Pérez, A.; Ramírez, J. y Villazón-Terrazas, B.  (2007).  Methodology for Reusing Human Resources Management Standards.  En: "19th International Conference on Software Engineering and Knowledge Engineering,SEKE 2007", 09/07/2007 - 11/07/2007, Boston, USA. ISBN 9781891706202.    
+
+  Della Valle, E.; Cerizza, D.; Celino, I.; Estublier, J.; Vega, G.; Kerrigan, M.; Ramírez, J.; Villazón-Terrazas, B.; Guarrera, P.; Zhao, G. y Monteleone, G.  (2007).  SEEMP: A Semantic Interoperability Infrastructure for e-government services in the employment sector.  En: "4th European Semantic Web Conference", 3 al 7 de Junio de 2007, Innsbruck, Austria. ISBN 978-3-540-72666-1.    
+
+  García-Castro, Raúl; Gómez-Pérez, A. y Prieto-González, J.  (2007).  IBSE: An OWL Interoperability Evaluation Infrastructure.  En: "Third International Workshop OWL: Experiences and Directions 2007 (OWL2007)", 6-7 June 2007, Innsbruck, Austria. ISBN 1613-0073.    
+
+  López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2007).  Rapid ontology-based Web application development with JSTL.  En: "Scripting for the Semantic Web 2007 en 4th European Semantic Web Conference 2007", Junio 2007, Innsbruck (Austria).    
+
+  Corcho, Oscar; Alper, P.; Missier, P.; Bechhofer, S.; Goble, C. y Xing, W.  (2007).  Metadata Management in S-OGSA.  En: "7th International Conference on Computational Science, ICCS 2007", 27/05/2007 - 30/05/2007, Pekin, China. ISBN 978-3-540-72585-5.    
+
+  Aguado de Cea, G. y Montiel-Ponsoda, Elena  (2007).  Providing Multilinguality to Ontologies: An Overview.  En: "XXV Congreso Internacional de la Asociación Española de Lingüística Aplicada (AESLA 2007)", 19 – 21 de abril de 2007, Murcia, España.    
+
+  Della Valle, E.; Cerizza, D.; Celino, I.; Estublier, J.; Vega, G.; Kerrigan, M.; Ramírez, J.; Villazón-Terrazas, B.; Guarrera, P.; Zhao, G. y Monteleone, G.  (2007).  SEEMP: Meaningful Service-based Collaboration Among Labour Market Actors.  En: "10th International Conference on Business Information Systems", 25 al 27 de Abril de 2007, Poznan, Polonia. ISBN 978-3-540-45914-9.    
+
+  Ure, Jenny; Procter, Rob; Martone, Maryann; Porteous, David; Lloyd, Sharon; Lawrie, Stephen; Job, Dominic; Baldock, Richard; Philp, Alistair; Liewald, Dave; Rakebrandt, Frank; Blaikie, Alan; McKay, Clare; Anderson, Stuart; Ainsworth, John; Van Hemert, Jano; Blanquer, Ignacio; Sinnott, Richard; Barillot, Christian; Gibaud, Frank Bernard; Williams, F.A.; Hartswood, Mark; Watson, Paul; Smith, Leslie; Burger, Albert; Kennedy, Jessie; Gonzalez-Velez, Horacio; Stevens, Robert; Corcho, Oscar; Morton, Robin; Linksted, Pamela; Deschenes, Mylene; McGilchrist, Mark; Johnson, Paul; Voss, Alex; Gertz, Renate y Wardlaw, Joanna  (2007).  Data integration in eHealth: a domain/disease specific roadmap.   En:  "From Genes to Personalized HealthCare: Grid Solutions for the Life Sciences".   IOS Press, pp. 144-153.  ISBN 978-1-58603-738-3.     
+
+  Gómez-Pérez, A.; Aguado de Cea, G.; Álvarez de Mon Rego, I.; Barrasa Rodríguez, Jesús; Corcho, Oscar; Fernández-López, M.; García-Castro, Raúl; González-Cabero, R.; Lama Penin, M.; López-Cima, A.; Pareja-Lora, A.; Ramos Gargantilla, JA.; Suárez-Figueroa, Mari Carmen y Villazón-Terrazas, B.  (2007).  Infraestructura tecnológica de servicios semánticos para la Web Semántica.  En: "Jornadas de seguimiento de proyectos en tecnologías informáticas (jspTIN 2007)", 15-16 de febrero de 2007, Móstoles, España.    
+
+  Aguado de Cea, G.  (2007).  A multiperspective approach to specialized phraseology: Internet as a reference corpus for phraseology.   En:  "The Texture of Internet: Netlinguistics in Progress".   Cambridge Scholars Publishing, Cambridge.  ISBN 9781847181732.     
+
+  Aguado de Cea, G.  (2007).  La fraseología en las lenguas de especialidad.   En:  "Las lenguas profesionales y académicas".   Ariel, Barcelona, pp. 53-65.  ISBN 978-84-344-8122-0.     
+
+  Aguado de Cea, G.; Montiel-Ponsoda, Elena y Ramos Gargantilla, JA.  (2007).  Multilingualidad en una aplicación basada en el conocimiento.   "Revista de la Sociedad Española para el Procesamiento de Lenguaje Natural", v. 38 ;   pp. 77-98.  ISSN 1135-5948.    
+
+  Bernardos Galindo, María del Socorro y Aguado de Cea, G.  (2007).  CALIOPE: herramienta para gestionar un corpus y un glosario de términos informáticos.  En: "VI Congreso de AELFE ( Asociación europea de lenguas para fines específicos).", 2007.    
+
+  Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2007).  Ontological Engineering: What are Ontologies and How Can We Build Them?.   En:  "Semantic Web Services".   Premier Reference Source, Nueva York, pp. 44-70.     
+
+  Esteban-Gutiérrez, M. y Gómez-Pérez, A.  (2007).  Ideas for the Provision of Ontology Access in Grid Environments.   En:  "Knowledge and Data Management in Grids".   Core Grid .  Springer, pp. 151-168.  ISBN 978-0-387-37830-5.     
+
+  Gangemi, A.; Gómez-Pérez, A.; Presutti, V. y Suárez-Figueroa, Mari Carmen  (2007).  Towards a Catalog of OWL-based Ontology Design Patterns.  En: "XII Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA-TTIA 2007)", November 12-November 16, 2007, Salamanca, SPAIN. ISBN 978-84-611-8846-8.    
+
+  Missier, P.; Alper, P.; Corcho, Oscar; Dunlop, I. y Goble, C.  (2007).  Requirements and services for metadata management.   "IEEE Internet Computing", v. 11  (n. 5);   pp. 17-25.     
+
+  Rodríguez Pascual, AF.; Abad Power, P.; Alonso Jiménez, JA.; Sánchez Maganto, A.; Ayuso González, JE. y Vilches-Blázquez, LM.  (2007).  Las IDE como evolución natural de los SIG.  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Valverde, Juan José; Buil-Aranda, C. y Gómez-Pérez, José Manuel  (2007).  WEASEL: Vodafone Corporate Semantic Web.  En: "1st European Semantic Technology Conference 2007", 31/05/2007 01/05/2007, Viena, Austria.    
+
+  Contreras, Jesús; Corcho, Oscar y Benjamins, R.  (2006).  Semantic Content Mediation and Acquisition: The Challenge for Semantic e-Business Solutions.   En:  "Semantic Web Technologies and EBusiness: Toward the Integrated Virtual Organization and Business Process Automation".   Idea Group Publishing Inc., IGI Global, Hershey, Pennsylvania, pp. 119-466.  ISBN 1-59904-192-8.    https://doi.org/10.4018/978-1-59904-192-6 <https://doi.org/10.4018/978-1-59904-192-6>. 
+
+  Kotsiopoulos, I.; Missier, P.; Alper, P.; Corcho, Oscar; Bechhofer, S. y Goble, C.  (2006).  Architectural Patterns for the Semantic Grid.   En:  "Knowledge and Data Management in GRIDs".   CoreGRID Series .  Springer-Verlag, New York, USA, pp. 119-134.  ISBN 978-0-387-37830-5.    https://doi.org/10.1007/978-0-387-37831-2_8 <https://doi.org/10.1007/978-0-387-37831-2_8>. 
+
+  Sánchez-Gestido, M.; Blanco-Abruña, L.; Perez-Hernandez, M.S.; González-Cabero, R.; Gómez-Pérez, A. y Corcho, Oscar  (2006).  Complex Data-intensive Systems and Semantic Grid: Applications in Satellite Missions.  En: "e-Science 2006 Workshop on Engineering e-Infrastructures for the Benefits of e-Science", 04/12/2006 - 06/12/2006, Amsterdam, Paises Bajos. ISBN 9780769527345.    
+
+  Corcho, Oscar  (2006).  Reasoning Services for the Semantic Grid.  En: "XI Conferencia de la Asociación Española para la Inteligencia Artificial, CAEPIA’2005", 16/10/2005 - 18/10/2005, Santiago del Compostela, Spain.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2006).  A Layered Model for Building Ontology Translation Systems.   En:  "Semantic Web-Based Information Systems: State-of-the-Art Applications".   Advances in Semantic Web and Information Systems .  IGI Global, Information Science Reference, Hershey, Pennsylvania, pp. 161-189.  ISBN 9781599044262.    https://doi.org/10.4018/978-1-59904-426-2 <https://doi.org/10.4018/978-1-59904-426-2>. 
+
+  Corcho, Oscar; Losada, S.; Benjamins, R.; Bas, J.L. y Bellido, S.  (2006).  Personal eBanking Solutions Based on Semantic Web Services.   En:  "E-Service Intelligence".   Springer-Verlag, Berlín, Alemania, pp. 287-306.  ISBN 978-3-540-37015-4.    https://doi.org/10.1007/978-3-540-37017-8_13 <https://doi.org/10.1007/978-3-540-37017-8_13>. 
+
+  David, S.; García-Castro, Raúl y Gómez-Pérez, A.  (2006).  Defining a Benchmark Suite for Evaluating the Import of OWL Lite Ontologies.  En: "Second International Workshop OWL: Experiences and Directions 2006 (OWL2006)", 10-11 November 2006, Athens, Georgia, USA. ISBN 1613-0073.    
+
+  Dzbor, Martin; Motta, Enrico; Buil-Aranda, C.; Gómez-Pérez, José Manuel; Görlitz, Olaf y Lewen, Holger  (2006).  Developing ontologies in OWL: An observational study.  En: "OWL: Experiences and Directions", Noviembre 2006, Athens, EEUU.    
+
+  García-Castro, Raúl  (2006).  Towards the improvement of the Semantic Web technology.  En: "Second International Workshop on Scalable Semantic Web Knowledge Base Systems (SSWS2006)", 5 November 2006, Athens GA, USA.    
+
+  Hartmann, J.; Paslaru Bontas, E.; Palma de León, R. y Gómez-Pérez, A.  (2006).  DEMO - Design Environment for Metadata Ontologies.  En: "3rd European Semantic Web Conference (ESWC 2006)", 12 June 2006, Budva, Montenegro.    
+
+  Vilches-Blázquez, LM.; Bernabe Poveda, Miguel Angel; Suárez-Figueroa, Mari Carmen; Gómez-Pérez, A. y Rodríguez Pascual, AF.  (2006).  Towntology & hydrOntology: Relationship between Urban and Hydrographic Features in the Geographic Information Domain.  En: "1st Workshop of COST Action C21 "Ontologies for Urban Development: Interfacing Urban Information Systems", 6-7 of November, 2006., Geneva, Switzerland.. ISBN 978-3-540-71975..    
+
+  Gómez-Pérez, A.; Ortiz Rodríguez, F. y Villazón-Terrazas, B.  (2006).  Legal Ontologies for the spanish e-Government.   En:  "Current topics in artificial intelligence".   Lecture Notes in Computer Science, 4177 .  Springer, Berlin, Alemania.  ISBN 978-3-540-45914-9.    https://doi.org/10.1007/11881216_32 <https://doi.org/10.1007/11881216_32>. 
+
+  Barrasa Rodríguez, Jesús; Corcho, Oscar y Gómez-Pérez, A.  (2006).  A semantic portal for fund finding in the EU: Semantic upgrade, integration and publication of heterogeneous legacy data.  En: "10th International Conference on Knowledge-Based Intelligent Information and Engineering Systems (KES 2006)", October 9-11 2006, Bournemouth, UK,. ISBN 3-540-46542-1. pp. 588-597.    
+
+  Corcho, Oscar; Gómez-Pérez, A.; López-Cima, A. y Suárez-Figueroa, Mari Carmen  (2006).  The ODESeW platform as a tool for managing EU projects: The knowledge Web case study.  En: "15th International Conference on Knowledge Engineering and Knowledge Management (EKAW2006)", 29th September to 3rd October 2008, Acitrezza, Catania, Italy. ISBN 3-540-46363-1. pp. 389-396.    
+
+  García-Castro, Raúl  (2006).  Tecnologías de la Web Semántica: cómo funcionan y cómo interoperan.  En: "Tecnologías de la Web Semántica: cómo funcionan y cómo interoperan", 5-7 octubre 2006, Popayán, Colombia.    
+
+  Goble, C.; Corcho, Oscar; Alper, P. y De Roure, D.  (2006).  e-Science and the Semantic Web: A Symbiotic Relationship.  En: "9th International Conference on Discovery Science, DS 2006", 07/10/2006 - 10/10/2006, Barcelona, España. ISBN 978-3-540-46491-4.    
+
+  Gómez-Pérez, A.; López-Cima, A.; Suárez-Figueroa, Mari Carmen y Corcho, Oscar  (2006).  Managing R&D European Projects with ODESeW.  En: "15th International Conference on Knowledge Engineering and Knowledge Management Managing Knowledge in a World of Networks, EKAW 2006", 02/09/2006 - 06/09/2006, Podebrady, CZECH REPUBLIC.    
+
+  Missier, P.; Alper, P.; Corcho, Oscar; Kotsiopoulos, I.; Dunlop, I.; Xing, W.; Bechhofer, S. y Goble, C.  (2006).  Managing semantic Grid metadata in S-OGSA.  En: "Cracow Grid Workshop, CGW2006", 15/10/2006 - 18/10/2006, Cracovia, Polonia. ISBN 9788391514177.    
+
+  Ortiz-Rodriguez, F.; Palma, R. y Villazón-Terrazas, B.  (2006).  Semantic based P2P System for local e-Government.  En: "Informatik 2006, Applications of Semantic Technologies", 6 de Octubre de 2006, Dresden, Alemania. ISBN 978-3-88579-188-1.    
+
+  Parkin, M.; Van der Berghe, S.; Corcho, Oscar; Snelling, D. y Brooke, J.  (2006).  The Knowledge of the Grid: A Grid Ontology.  En: "Cracow Grid Workshop, CGW2006", 15/10/2006 - 18/10/2006, Cracovia, Polonia. ISBN 9788391514177.    
+
+  Sánchez Maganto, A.; Rodríguez Pascual, AF.; Abad Power, P.; Vilches-Blázquez, LM. y Alonso Jiménez, JA.  (2006).  Situación actual de los metadatos en el ámbito internacional.  En: "III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España", 18-20/10/2006.    
+
+  Vilches-Blázquez, LM.; Rodríguez Pascual, AF. y Bernabe Poveda, Miguel Angel  (2006).  Ingeniería ontológica: El camino hacia la mejora del acceso a la información geográfica en el entorno web.  En: "III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España", 18 - 20 Octubre, 2006, Castellón de la Plana, Spain. ISBN 84-8021-590-9.    
+
+  Aguado de Cea, G. y Álvarez de Mon Rego, I.  (2006).  Estructuras de clasificación en español. Terminología y adquisición de conocimiento explícito para la web semántica..  En: "V Congreso Internacional de AELFE (Asociación Europea de Lenguas para Fines Específicos)", September 2006, Zaragoza, Spain.    
+
+  Losada, S.; Kleczek, D.; Benjamins, R.; Contreras, Jesús; Corcho, Oscar; Bas, J.L. y Bellido, S.  (2006).  How to make it faster and at lower cost? B2B integration with semantic web services.  En: "17th International Conference on Database and Expert Systems Applications, DEXA2006", 04/09/2006 - 08/09/2006, Cracovia, Polonia. ISBN 978-0-7695-2641-6.    
+
+  Montiel-Ponsoda, Elena  (2006).  Estudio metafórico de tres “pecados capitales”: la lujuria, la envidia y la ira.  En: "V Congreso Internacional de la Asociación Europea de Lenguas para Fines Específicos (AELFE 2006)", 14 – 16 de septiembre de 2006, Zaragoza. España. ISBN 84-7733-846-9.    
+
+  Sánchez-Gestido, M.; Blanco-Abruña, L.; Perez, M. S.; González-Cabero, R.; Gómez-Pérez, A. y Corcho, Oscar  (2006).  Semantic grid applications to complex satellite mission systems.  En: "7th IEEE/ACM International Conference on Grid Computing (Grid 2006)", SEP 28-29, 2006. pp. 327-328.    
+
+  Vilches-Blázquez, LM.; Rodríguez Pascual, AF. y Bernabe Poveda, Miguel Angel  (2006).  Aplicaciones de la ingeniería ontológica a la gestión y análisis de la información geográfica.  En: "XII Congreso Nacional de Tecnologías de la Información Geográfica. El acceso a la información espacial y las nuevas tecnologías geográficas.", 19-22 September, 2006, Granada, Spain.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2006).  Interoperability of Protégé using RDF(S) as Interchange Language.  En: "9th International Protégé Conference (Protégé2006)", 23-26 julio 2006, Stanford, USA.    
+
+  López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2006).  A platform for the development of Semantic Web portals.  En: "6th International Conference on Web Engineering (ICWE2006)", Julio 2006, California (USA).    
+
+  Alper, P.; Corcho, Oscar; Parkin, M.; Kotsiopoulos, I.; Missier, P.; Bechhofer, S. y Goble, C.  (2006).  An Authorisation Scenario for S-OGSA.  En: "3rd European Semantic Web Conference, ESWC2006", 11/06/2006 - 14/06/2006, Budva, Montenegro. ISBN 978-3-540-34544-2.    
+
+  Esteban-Gutiérrez, M.; Gómez-Pérez, A. y Muñoz-García, O.  (2006).  Ontology Access in Grid Environments with WS-DAIOnt and the RDF(S) Realization.  En: "3rd European Semantic Web Conference", 11-14/06/2006, Buvda, Montenegro. ISBN 978-3-540-34544-2.    
+
+  García-Castro, Raúl  (2006).  Benchmarking Semantic Web Technology.  En: "Knowledge Web PhD Symposium 2006 (KWEPSY2006)", 17 June 2006, Budva, Montenegro.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2006).  Benchmark Suites for Improving the RDF(S) Importers and Exporters of Ontology Development Tools.  En: "3rd European Semantic Web Conference (ESWC2006)", 10-11 junio 2006, Budva, Montenegro. ISBN 978-3-540-34544-2.    
+
+  Gómez-Pérez, A. y González-Cabero, R.  (2006).  SGSDesigner, the ODESGS Environment User Interface.  En: "3rd European Semantic Web Conference (ESWC 2006)", 12 June 2006.    
+
+  Gómez-Pérez, A.; Ortiz-Rodriguez, F. y Villazón-Terrazas, B.  (2006).  Ontology-Based Legal Information Retrieval to Improve the Information Access in e-Government.  En: "3rd European Semantic Web Conference, ESWC 2006", 11/06/2006 - 14/06/2006, Budva, Montenegro. ISBN 9783540345459.    
+
+  Ortiz-Rodriguez, F. y Villazón-Terrazas, B.  (2006).  EGO Ontology Model: law and regulation approach for E-Government.  En: "3rd European Semantic Web Conference, ESWC 2006", 11/06/2006 - 14/06/2006, Budva, Montenegro. ISBN 9783540345459.    
+
+  Palma, R.; Hartmann, J. y Gómez-Pérez, A.  (2006).  Towards an Ontology Metadata Standard.  En: "3rd European Semantic Web Conference (ESWC 2006)", 12 June 2006.    
+
+  Barrasa Rodríguez, Jesús y Gómez-Pérez, A.  (2006).  Upgrading Relational Legacy Data to eh Semantic Web.  En: "15th International World Wide Web Conference (WWW2006)", 23-26 May 2006, Edinburgh, Scotland.    
+
+  Declerck, T.; Gómez-Pérez, A.; Vela, O.; Gantner, Z. y Manzano-Macho, D.  (2006).  Multilingual Lexical Semantic Resources for Ontology Translation.  En: "International Conference on Language Resources and Evaluation (LREC 2006)", 24-26 May 2006, Genova, Italy.    
+
+  Gómez-Pérez, A. y González-Cabero, R.  (2006).  SGSDesigner, a Graphical Interface for Annotating and Designing Semantic Grid Services.  En: "15th International World Wide Web Conference (WWW2006)", 23-26 May 2006, Edinburgh, Scotland.    
+
+  Gómez-Pérez, A.; Ortiz Rodríguez, F. y Villazón-Terrazas, B.  (2006).  Ontology-Based Legal Information Retrieval to Improve the Information Access in e-Government.  En: "15th Word Wide Web Conference", 23-26 May 2006, Edinburgh, Scotland.    
+
+  Fernández-López, M.; Gómez-Pérez, A. y Ramos, JA.  (2006).  OEGMerge: a case-based model for merging ontologies.  En: "Modeling Decisions for Artificial Intelligence (MDAI’2006)", 3-5 de abril de 2006, Tarragona, España. ISBN 84-00-08415-2.    
+
+  López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2006).  ODESeW for the creation of R&D projects’ Intranets and Extranets.  En: "Workshop Intrawebs 2006 en 15th World Wide Web Conference 2006 (WWW2006)", Abril 2006, Edimburgo (Escocia).    
+
+  López-Cima, A.; Corcho, Oscar y Gómez-Pérez, A.  (2006).  The ODESeW 2.0 Semantic Web application framework.  En: "6th International Conference on Web Engineering (WWW2006)", Abril 2006, Edimburgo (Escocia).    
+
+  Alper, P.; Corcho, Oscar; Kotsiopoulos, I.; Missier, P.; Bechhofer, S.; Kuo, D. y Goble, C.  (2006).  S-OGSA as a Reference Architecture for OntoGrid and for the Semantic Grid.  En: "The 16th Global Grid Forum, GGF16", 13/02/2006 - 16/02/2006, Athenas, Grecia.    
+
+  Esteban-Gutiérrez, M.; Gómez-Pérez, A.; Muñoz-García, O. y Villazón-Terrazas, B.  (2006).  Ontology Access in Grids with WS-DAIOnt and the RDF(S) Realization.  En: "Third Semantic Grid Workshop (Global Grid Forum)", 13/2/2006, Atenas, Grecia.    
+
+  Sánchez-Gestido, M.; Perez-Hernandez, M.S.; González-Cabero, R. y Gómez-Pérez, A.  (2006).  Improving a Satellite Mission System by means of a Semantic Grid Architecture.  En: "3rd GGF Semantic Grid - Global Grid Forum (GGF16)", 15 February 2006, Athens, Greece.    
+
+  Abad Power, P.; Rodríguez Pascual, AF.; Alonso Jiménez, JA.; Sánchez Maganto, A. y Vilches-Blázquez, LM.  (2006).  Análisis de los servicios WMS disponibles: hacia un conjunto de recomendaciones para su implementación.  En: "III Jornadas Técnicas de la Infraestructura de Datos Espaciales de España", 18-20/10/2006. ISBN 84-8021-590-9.    
+
+  Aguado de Cea, G.  (2006).  De bits y bugs a blogs y webs: aspectos interdisciplinares, socioculturales y lingüísticos de la terminología informática.   En:  "CORCILLVM: Estudios de traducción, lingüística y filología dedicados a Valentín García Yebra".   Arco Libros, Madrid, Spain, pp. 693-720.  ISBN 84-7635-648-X.     
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I. y Pareja-Lora, A.  (2006).  Contenido, forma y función en textos del dominio del cine: la reseña y la crítica cinematográficas.   En:  "Lingüística aplicada en la sociedad de la información y la comunicación".   Universitat de les Illes Balears. Servei de Publicacions i Intercanvi Científic. Cas Jai, pp. 65-76.  ISBN 84-7632-962-8.     
+
+  Calbimonte, JP. y Porto, F.  (2006).  Functional Dependencies in OWL ABox.  En: "11th Workshop on Non-Monotonic Reasoning, NMR 2006", 30/05/2006-01/06/2006, UK.    
+
+  Corcho, Oscar  (2006).  Ontology Based Document Annotation: Trends and Open Research Problems.   "International Journal of Metadata, Semantics and Ontologies", v. 1  (n. 1);   pp. 47-57.  ISSN 1744-2621.   https://doi.org/10.1504/IJMSO.2006.008769 <https://doi.org/10.1504/IJMSO.2006.008769>. 
+
+  Corcho, Oscar; Alper, P.; Kotsiopoulos, I.; Missier, P.; Bechhofer, S. y Goble, C.  (2006).  An overview of S-OGSA: A Reference Semantic Grid Architecture.   "Journal of Web Semantics", v. 4  (n. 2);   pp. 102-115.  ISSN 1570-8268.    
+
+  Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2006).  Ontological Engineering: Principles, Methods, tools and Languages.   En:  "Ontologies for Software Engineering and Software Technology".   Springer-Verlag, Berlín, Alemania, pp. 1-48.  ISBN 3-540-34517-5.     
+
+  Corcho, Oscar; Gómez-Pérez, A.; Fernández López, Mariano y Ramos Gargantilla, JA.  (2006).  Ontologías y Web Semántica 2005. Resumen del taller.   "Revista Iberoamericana de Inteligencia Artificial", v. 10  (n. 30);   pp. 99-100.  ISSN 1137-3601.    
+
+  Fernández-López, M.; Gómez-Pérez, A. y Ramos, JA.  (2006).  Estudio y formalización del proceso de mezcla de ontologías.   "Revista Iberoamericana de Inteligencia Artificial", v. 10  (n. 31);   pp. 81-89.  ISSN 1137-3601.    
+
+  Gómez-Pérez, A.; López-Cima, A.; Suárez-Figueroa, Mari Carmen y Corcho, Oscar  (2006).  R&D Project Management with ODESeW.  En: "Proceedings of the On the Move to Meaningful Internet Systems, OTM 2006", 29/10/2006 - 03/11/2006, Montpellier, Francia. ISBN 9783540482765.    
+
+  Palma, R.; Haase, Peter y Gómez-Pérez, A.  (2006).  Oyster – Sharing and Re-using Ontologies in a Peer-to-Peer Community.  En: "15th International World Wide Web Conference (WWW2006)", 23-26 May 2006.    
+
+  Rodríguez Pascual, AF.; López Romero, E.; Abad Power, P.; Sánchez Maganto, A. y Vilches-Blázquez, LM.  (2006).  Utilidad y significado de la infraestructura de datos espaciales de España. Hermenéutica de la IDEE.  En: "XII Congreso Nacional de Tecnologías de la Información Geográfica. El acceso a la información espacial y las nuevas tecnologías geográficas.", 19-22/09/2006.    
+
+  Sevilla Sánchez, C.; Rodríguez Pascual, AF.; González-Matesanz, FJ.; Blanco Ortega, LM. y Vilches-Blázquez, LM.  (2006).  Un SIG corporativo en el IGN para la gestión integrada, publicación y análisis de datos geográficos.  En: "XII Congreso Nacional de Tecnologías de la Información Geográfica. El acceso a la información espacial y las nuevas tecnologías geográficas.", 19-22/09/2006.    
+
+  Goble, C.; Gómez-Pérez, A.; González-Cabero, R. y Pérez Hernández, María de los Santos  (2005).  ODEGSG Framework, Knowledge-Based Annotation and Design of Grid Services.  En: "International Conference on Service Oriented Computing ICSOC 2005", 14 December 2005, Amsterdam, The Netherlands.    
+
+  Diego, R. de; Fernández-López, M.; Gómez-Pérez, A. y Ramos, J.A.  (2005).  OEGMerge: un modelo de mezcla de ontologías basado en casuísticas.  En: "Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA’2005)", 16-18 de noviembre de 2005, Santiago de Compostela, España. ISBN 84-96474-13-5.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2005).  A Method for Performing an Exhaustive Evaluation of RDF(S) Importers.  En: "International Workshop on Scalable Semantic Web Knowledge Base Systems, SSWS2005", 20/11/2005 - 22/11/2005, New York, EEUU. ISBN 978-3-540-30018-2.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2005).  Guidelines for Benchmarking the Performance of Ontology Management APIs.  En: "4th International Semantic Web Conference (ISWC2005)", 6-10 noviembre 2005, Galway, Ireland. ISBN 978-3-540-29754-3.    
+
+  Hartmann, J.; Palma, R.; Sure, Y.; Suárez-Figueroa, Mari Carmen; Haase, Peter; Gómez-Pérez, A. y Studer, R.  (2005).  Ontology Metadata Vocabulary and Applications.  En: "First IFIP WG 2.12 & WG 12.4 International Workshop on Web Semantics (SWWS 2005). and On the Move Federated Conferences (OTM 2005)", 01/11/2009-02/11/2009, Agia Napa, Chipre. ISBN ISSN 0302-9743.    
+
+  Hakkarainen, S.; Kofod-Petersen, A. y Buil-Aranda, C.  (2005).  Situated Support for Choice of Representation for a Semantic Web Application.  En: "International Conference on Conceptual Modeling ER (Workshops) 2005", Octubre 2005, Klagenfurt (Austria).    
+
+  Hakkarainen, S.; Kofod-Petersen, A. y Buil-Aranda, C.  (2005).  Situated Support for Choice of Representations.  En: "The 2005 IEEE/WIC/ACM International Conference on Web Intelligence", Septiembre 2005, University of Technology of Compiegne, France. ISBN 0-7695-2415-X.    
+
+  Corcho, Oscar; Blázquez, Juan; Niño, M.; Benjamins, R.; Contreras, Jesús; García-Silva, A.; Navas, E.; Rodríguez, J.; Wert, C; Millán, R y Dodero, J.M.  (2005).  Combination of DROOL rules and Protégé knowledge bases in the ONTO-H annotation tool.  En: "8th International Protege Conference, Protege with Rules Workshop", 18/07/2009 - 21/07/2009, Madrid, España. ISBN 8th International Protege Conference, Protege with Rules Workshop.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2005).  A layered model for building ontology translation systems.   "International Journal on Semantic Web and Information Systems", v. 1  (n. 2);   pp. 22-48.  ISSN 1552-6283.   https://doi.org/10.4018/978-1-59904-426-2 <https://doi.org/10.4018/978-1-59904-426-2>. 
+
+  Corcho, Oscar; Fernández-López, M.; Gómez-Pérez, A. y López-Cima, A.  (2005).  Construcción de ontologías legales con la metodología METHONTOLOGY y la herramienta WebODE.   En:  "Law and the Semantic Web. Legal Ontologies, Methodologies, Legal Information Retrieval, and Applications".   Springer-Verlag, pp. 142-157.  ISBN 0302-9743.     
+
+  Corcho, Oscar; Fernández-López, M.; Gómez-Pérez, A. y López-Cima, A.  (2005).  Building legal ontologies with METHONTOLOGY and WebODE.   En:  "Law and the Semantic Web : Legal Ontologies, Methodologies, Legal Information Retrieval, and Applications".   Springer, pp. 142-157.  ISBN 978-3-540-25063-0.     
+
+  Corcho, Oscar; Gómez-Pérez, A.; Benjamins, R.; Fernández-López, M.; Ramos Gargantilla, JA. y Contreras, Jesús  (2005).  SW @ SPAIN.   "Semantic Web FactBook" ;   pp. 18-25.     
+
+  Rodríguez Pascual, AF.; López Romero, E.; Abad Power, P.; Sánchez Maganto, A. y Vilches-Blázquez, LM.  (2005).  Nuevos roles en el nuevo paradigma IDE.  En: "II Jornadas Técnicas de la IDE de España (JIDEE)", 24-25/11/2005.    
+
+  Sánchez-Alberca, A.; García-García, R.; Sorzano, C.O.S.; Gutiérrez-Cossío, Celia; Chagoyen, Mónica y Fernández López, Mariano  (2005).  AMON: A Software System for Automatic Generation of Ontology Mappings.   En:  "AMON: A Software System for Automatic Generation of Ontology Mappings".   IEEE Press, Covilhã, Portugal, pp. 120-127.     
+
+  Cañadas, G.; Fernández-López, M.; García-García, R.; Lama, M.; Sánchez-Alberca, A. y Sorzano, C.O.S.  (2004).  Framework for automatic generation of ontology mappings.  En: "Congreso Jornadas Iberoamericanas de Ingeniería del Software e Ingeniería del Conocimiento (JIISIC’04)", 11/2004, Madrid, España.    
+
+  Declerck, T.; Contreras, Jesús; Corcho, Oscar y Crispi, C.  (2004).  Text-based Semantic Annotation Service for Multimedia Content in the Esperonto project.  En: "European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology, EWIMT2004", 25/11/2004 - 26/11/2004, Londres, UK. ISBN 0902238108.    
+
+  Euzenat, J.; Fensel, D.; Gómez-Pérez, A. y Lara, R.  (2004).  Knowledge web: realising the semantic web... all the way to knowledge-enhanced multimedia documents.  En: "European workshop on Integration of knowledge, semantic and digital media technologies (EWIMT 2004)", 25 -26 November 2004, London, UK.    
+
+  Fernández-López, M. y Gómez-Pérez, A.  (2004).  Searching for a Time Ontology for Semantic Web Applications.  En: "International Conference on Formal Ontology in Information Systems (FOIS’04)", 4-6 November 2004, Turín, Italy.    
+
+  García-Castro, Raúl y Gómez-Pérez, A.  (2004).  A benchmark suite for evaluating the performance of the WebODE Ontology Engineering Platform.  En: "3rd International Workshop on Evaluation of Ontology-based Tools, EON2004", 07/11/2004 - 11/11/2004, Hiroshima, Japón. ISBN 1613-0073.    
+
+  Gómez-Pérez, A.; González-Cabero, R. y Lama, M.  (2004).  ODESWS, A Semantic Web Service Development.  En: "International Semantic Web Conference (ISWC04)", 10 November 2004, Hiroshima, Japan.    
+
+  López-Cima, A. y Gómez-Pérez, A.  (2004).  Advanced Design of Semantic Web Portal: ODESeW2.  En: "3nd International Semantic Web Conference (ISWC2004)", 7-11November 2004, Hiroshima (Japan).    
+
+  López-Cobo, J. M.; Losada, S.; Corcho, Oscar; Benjamins, R.; Niño, M. y Contreras, Jesús  (2004).  SWS for financial overdrawn alerting.  En: "3rd International Semantic Web Conference (ISWC2004)", November 7-11, 2004, Hiroshima, Japan. ISBN 3-540-23798-4. pp. 782-796.    
+
+  Contreras, Jesús; Benjamins, R.; Blázquez, Juan; Losada, S.; Salla, R.; Sevilla, J.; Navarro, D.; Casillas, J.; Mompo, A.; Paton, D.; Corcho, Oscar; Tena, P. y Martos, I.  (2004).  A Semantic Portal for the International Affairs Sector.  En: "14th International Conference on Knowledge Engineering and Knowledge Management, EKAW2004", 05/10/2004 - 08/10/2004, Whittlebury Hall, Northamptonshire, UK. ISBN 3-540-23340-7.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2004).  Ontology translation approaches for interoperability: A case study with Protege-2000 and WebODE.  En: "14th International Conference on Knowledge Engineering and Knowledge Management (EKAW’04)", October 5-8, 2004, Whittlebury Hall, UK. ISBN 3-540-23340-7. pp. 30-46.    
+
+  López-Cobo, J. M.; Losada, S.; Corcho, Oscar; Benjamins, R. y Niño, M.  (2004).  A customer Notification Agent for financial overdrawn using Semantic Web Services.  En: "14th International Conference on Knowledge Engineering an Knowledge Management (EKAW’04)", 5-8th OCTOBER 2004, Whittlebury Hall, Northamptonshire, UK. ISBN 3-540-23340-7. pp. 371-385.    
+
+  Gómez-Pérez, A.; González-Cabero, R. y Lama, M.  (2004).  Development of Semantic Web Services at the Knowledge Level.  En: "European Conference on Web Services 2004 (ECOWS04)", September 2004, Erfurt, Germany.    
+
+  Barrasa Rodríguez, Jesús; Corcho, Oscar y Gómez-Pérez, A.  (2004).  R2O, an extensible and semantically based database-to-ontology mapping language.   En:  "Proceedings of the Second Workshop on Semantic Web and Databases, SWDB 2004".   Springer-Verlag, Berlín, Alemania, pp. 1069-1070.  ISBN 978-3-540-24576-6.    https://doi.org/10.1007/b106149 <https://doi.org/10.1007/b106149>. 
+
+  Corcho, Oscar; Gómez-Pérez, A.; González-Cabero, R. y Suárez-Figueroa, Mari Carmen  (2004).  ODEval: a Tool for Evaluating RDF(S), DAML+OIL, and OWL Concept Taxonomies.  En: "1st IFIP Conference on Artificial Intelligence Applications and Innovations (AIAI 2004)", August 22-27, 2004, Toulouse, FRANCE. ISBN 1-4020-8150-2.    
+
+  Aguado de Cea, G.; Aguado de Cea, Antonio y Sanchez-Amillátegui, F.  (2004).  La responsabilidad de entender y el deber de hacerse entender: el texto reglamentario como diálogo entre normadores y normados.  En: "GLAT- Barcelona 2004", May, 2004, Barcelona, Spain.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I. y Pareja-Lora, A.  (2004).  OntoTag’s linguistic ontologies as a reference for semantic web annotations.  En: "LREC 2004, Workshop OntoLex 2004. Ontologies and Lexical Resources in distributed environments", May 2004, Lisbon, Portugal.    
+
+  Corcho, Oscar; García-Castro, Raúl y Gómez-Pérez, A.  (2004).  Benchmarking ontology tools. A case study for the WebODE platform.  En: "4th International Conference on Language Resources and Evaluation, LREC2004", 26/05/2004 - 28/05/2004, Lisboa, Portugal. ISBN 9782951740815.    
+
+  Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2004).  Ontology Evaluation Functionalities of RDF(S), DAML+OIL, and OWL Parsers and Ontology Platforms.  En: "4th International Conference on Language Resources and Evaluation (LREC 2004)", 26/05/2004-28/05/2004, Lisboa, Portugal. ISBN 2-9517408-1-6.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I.; Gómez-Pérez, A. y Pareja-Lora, A.  (2004).  OntoTag’s Linguistic Ontologies: Improving Semantic Web Annotations for a Better Language Understanding in Machines.  En: "International Conference on Information Technology: Coding and Computing (ITCC 2004)", 5-7 April 2004, Las Vegas, EEUU.    
+
+  Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2004).  Evaluation of RDF(S) and DAML+OIL Import/Export Services within Ontology Platforms.  En: "3rd Mexican International Conference on Artificial Intelligence (MICAI 2004)", April 26-30, 2004, Mexico City, MEXICO. ISBN 0302-9743 (Print), 1611-3349 (Online).    
+
+  Gómez-Pérez, A.; González-Cabero, R. y Lama, M.  (2004).  A Framework for Design and Composition of Semantic Web Services.  En: "AAAI Spring Symposium Series on Semantic Web Services", 22-24 March 2004, Stanford University, USA. ISBN 1-57735-198-3.    
+
+  Gómez-Pérez, A.  (2004).  Ontology Evaluation.   En:  "Handbook on Ontologies".   International Handbooks on Information Systems .  Springer, pp. 251-274.  ISBN 3-540-40834-7.     
+
+  Lozano-Tello, A. y Gómez-Pérez, A.  (2004).  ONTOMETRIC: A Method to Choose the Appropriate Ontology.   "Journal of Database Management", v. 2  (n. 15);   pp. 1-18.     
+
+  Corcho, Oscar; Gómez-Pérez, A.; López-Cima, A.; Lopez-Garcia, V. y Suárez-Figueroa, Mari Carmen  (2003).  ODESeW. Automatic Generation of Knowledge Portals for Intranets and Extranets.  En: "2nd International Semantic Web Conference (ISWC2003)", 20-23 October 2003, Sanibel Island, Florida, USA. pp. 802-817.    
+
+  Gómez-Pérez, A.; Aguado de Cea, G.; Álvarez de Mon Rego, I.; Fernández-López, M.; Corcho, Oscar; Manzano-Macho, D.; Pareja-Lora, A. y López-Cima, A.  (2003).  Technological platform for the semantic web: ontologies, natural language analysis, and e-commerce..  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, V Jornadas de Transferencia Tecnológica de Inteligencia Artificial.    
+
+  Corcho, Oscar; Gómez-Pérez, A.; Guerrero-Rodríguez, J.; Pérez-Rey, D.; Ruiz-Cristina, A.; Sastre-Toral, T. y Suárez-Figueroa, Mari Carmen  (2003).  Evaluation experiment of ontology tools’ interoperability with the WebODE ontology engineering workbench.  En: "Evaluation of Ontology-based Tools Workshop (EON 2003), 2nd International Semantic Web Conference (ISWC 2003)", 20 October 2003, Sanibel Island, Florida, USA. ISBN ISSN 1613-0073.    
+
+  Gómez-Pérez, A. y Suárez-Figueroa, Mari Carmen  (2003).  Results of Taxonomic Evaluation of RDF(S) and DAML+OIL Ontologies using RDF(S) and DAML+OIL Validation Tools and Ontology Platforms Import Services.  En: "2nd International Workshop on Evaluation of Ontology Based Tools held at the 2nd International Semantic Web Conference ISWC 2003, EON 2003, evaluation of ontology based tools", 20/10/2003 - 20/10/2003, Florida, USA 20 October 2003.    
+
+  Arpirez, J.C.; Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2003).  WEBODE in a nutshell.   "AI Magazine", v. 24  (n. 3);   pp. 37-47.  ISSN 0738-4602.    
+
+  Barrasa Rodríguez, Jesús; Corcho, Oscar y Gómez-Pérez, A.  (2003).  Fund Finder: A case study of database-to-ontology mapping.  En: "2nd International Semantic Web Conference, ISWC2003", 20/10/2003 - 23/10/2003, Florida, USA. ISBN ISSN: 1613-0073.    
+
+  Corcho, Oscar; Fernández-López, M.; Gómez-Pérez, A. y Lama, M.  (2003).  An Environment for Development of Semantic Web Services.  En: "18th International Joint Conference on Artificial Intelligence, IJCAI’03. Workshop on Ontologies and Distributed Systems", 09/08/2003 - 10/08/2003, Acapulco, Méjico. ISBN 9780127056609.    
+
+  Corcho, Oscar; García-Castro, Raúl y Gómez-Pérez, A.  (2003).  Towards a benchmark of the ODE API methods for accessing ontologies in the WebODE platform.  En: "First International Workshop on Practical and Scalable Semantic Systems, PSSS2001", October 20, 2003, Florida, USA. ISBN 1613-0073.    
+
+  Corcho, Oscar; Gómez-Pérez, A.; Fernández-López, M. y Lama, M.  (2003).  ODE-SWS: A Semantic Web Service Development Environment.  En: "1st International Workshop on Semantic Web Databases, SWDB’ 03", 07/09/2003 - 0809/2003, Berlin, Alemania.    
+
+  Aguado de Cea, G. y Álvarez de Mon Rego, I.  (2003).  Cultural Aspects in the translation of texts in the domain of information technologies.  En: "14th European Symposium on Languages for Specific Purposes", August 2003, Guilford, University of Surrey.    
+
+  Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2003).  Methodologies, tools and languages for building ontologies. Where is their meeting point?.   "Data &amp; Knowledge Engineering", v. 46  (n. 1);   pp. 41-64.  ISSN 0169-023X.    
+
+  Lozano-Tello, A.; Gómez-Pérez, A. y Sosa, E.  (2003).  Selection of Ontologies for the Semantic Web.  En: "Web Engineering Conference", 14-18 July 2003. ISBN 3-540-40522-4.    
+
+  Corcho, Oscar; Gómez-Pérez, A.; Leger, A.; Rey, C. y Toumani, F.  (2003).  An ontology-based mediation architecture for e-commerce applications.   En:  "Advances in Soft Computing. Intelligent Information Processing and Web Mining. Proceedings of the International IIS: IIPWM´03 Conference".   Springer, pp. 477-486.  ISBN 978-3-540-33520-7.     
+
+  Aguado de Cea, G. y Álvarez de Mon Rego, I.  (2003).  La traducción técnica inglés-español: aspectos culturales en el ámbito de las tecnologías de la información.   En:  "El inglés como vocación. Homenaje al Profesor Miguel Castelo Montero".   Universidad de A Coruña, pp. 27-41.  ISBN 84-9749-063-0.     
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I.; Gómez-Pérez, A. y Pareja-Lora, A.  (2003).  OntoTag: XML/RDF(S)/OWL Semantic Web Page Annotation in ContentWeb.  En: "10th Conference of the European Chapter of the Association for Computational Linguistics (EACL03) Workshop 3rd Workshop on NLP and XML (NLPXML-2003) Language Technology and the Semantic Web", 13 April 2003, Budapest, Romania.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I. y Pareja-Lora, A.  (2003).  Primeras aproximaciones a la anotación lingüístico-ontológica de documentos de Web Semántica: OntoTag.   "Revista Iberoamericana de Inteligencia Artificial", v. 18 ;   pp. 37-49.  ISSN 1137-3601.    
+
+  Gómez-Pérez, A.; González-Cabero, R. y Lama, M.  (2003).  SWSDesigner: The Graphical Interface of ODESWS.  En: "First AKT Workshop on Semantic Web Services", 8 December 2004, Millon Keynes, UK.    
+
+  Corcho, Oscar; Fernández-López, M.; Gómez-Pérez, A. y Vicente, O.  (2002).  WebODE: An integrated workbench for ontology representation, reasoning, and exchange.  En: "13th International Conference on Knowledge Engineering and Knowledge Management. Ontologies and the Semantic Web (EKAW’02)", September 30, 2002. ISBN 3-540-44268-5. pp. 138-153.    
+
+  Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2002).  Evaluation experiment for the editor of the WebODE ontology workbench.  En: "13th International Conference on Knowledge Engineering and Knowledge Management (EKAW02) Workshop Evaluation of Ontology-based Tools Workshop (EON-2002)", September 2002, Sigüenza, Spain.    
+
+  Fernández-López, M. y Gómez-Pérez, A.  (2002).  The integration of OntoClean in WebODE.  En: "13th International Conference on Knowledge Engineering and Knowledge Management (EKAW02) Workshop Evaluation of Ontology-based Tools Workshop (EON-2002)", September 2002, Sigüenza, Spain.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I.; Pareja-Lora, A. y Plaza Arteche, R.  (2002).  A Semantic web page linguistic annotation model.  En: "15th European Conference on Artificial Intelligence, Workshop on Semantic Authoring, Annotation and Knowledge Markup", July 2002, Lyon, France.    
+
+  Corcho, Oscar  (2002).  A framework to solve the ontology translation problem.  En: "Workshop on Knowledge Transformation for the Semantic Web, ECAI’02", 21/07/2002 - 26/07/2002, Lyon, Francia. ISBN 978-1-58603-257-9.    
+
+  Lozano-Tello, A. y Gómez-Pérez, A.  (2002).  BAREMO: How to Choose the Appropriate Software Component Using the Analytic Hierarchy Process.  En: "Software Engineering and Knowledge Engineering (SEKE’02)", 15-19 July 2002, Ischia, Italy.    
+
+  Benjamins, R.; Contreras, Jesús; Corcho, Oscar y Gómez-Pérez, A.  (2002).  Six challenges for the Semantic Web.  En: "First International Semantic Web Conference, ISWC2002", 09/06/2002 - 12/06/2002, Cerdeña, Italia. ISBN 978-3-540-43760-4.    
+
+  Benjamins, R.; Contreras, Jesús; Corcho, Oscar y Gómez-Pérez, A.  (2002).  The six challenges of the Semantic Web.  En: "Eighth International Conference on Principles of Knowledge Representation and Reasoning, KR2002", 22/04/2002 - 25/04/2002, Toulouse, Francia. ISBN 9781558608474.    
+
+  Gómez-Pérez, A. y Corcho, Oscar  (2002).  Ontology Languages for the Semantic Web.   "IEEE Intelligent Systems", v. 17  (n. 1);   pp. 54-60.  ISSN 1094-7167.    
+
+  Aguado de Cea, G.; Álvarez de Mon Rego, I.; Pareja-Lora, A. y Plaza Arteche, R.  (2002).  RDF/S)XML Linguistic Annotation of Semantic Web Pages.  En: "Coling 2002", September 2002, Taipei, Taiwan.    
+
+  Aguado de Cea, G.  (2001).  Lenguas para fines específicos y terminología: algunos aspectos teóricos y prácticos.  En: "I Encuentro Internacional de Estudios de Filología Moderna y Traducción", November 2001.    
+
+  Arpirez, J.C.; Corcho, Oscar; Fernández-López, M. y Gómez-Pérez, A.  (2001).  WebODE: A Scalable Workbench for Ontological Engineering.  En: "First International Conference on Knowledge Capture, K-CAP 2001", 21/10/2001 - 23/10/2001, Victoria, British Columbia, Canada. ISBN 1-58113-380-4.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2001).  WebPicker: Knowledge Extraction from Web Resources.  En: "6th International Workshop on Applications of Natural Language for Information Systems, NLDB'01", 28/06/2001 - 29/06/2001, Madrid, España. ISBN 3-88579-332-6.    
+
+  Gómez-Pérez, A.  (2001).  A proposal of infrastructural needs on the framework of the semantic web for ontology construction and use.  Monografía (Artículo de trabajo).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Bernardos Galindo, María del Socorro y Aguado de Cea, G.  (2001).  A New Approach in Building a Corpus for Natural Language Generation System.   En:  "Computational Linguistics and Intelligent Text Processing".   Springer-Verlag (LNCS), pp. 216-225.  ISBN 3-540-41687-0.     
+
+  Bernardos Galindo, María del Socorro y Aguado de Cea, G.  (2001).  Adapting the Generalized Upper Model to Spanish.   En:  "Recent Advances in Natural Language Processing".   The Bulgarian Association for Computacional Linguistics, Tzigov Chark, Bulgary, pp. 103-107.  ISBN 954-90906-1-2.     
+
+  Bernardos Galindo, María del Socorro y Aguado de Cea, G.  (2001).  Reutilización y adaptación de la ontología GUM al castellano.  En: "Conferencia de la Asociación Española para la Inteligencia Artificial", 2001. ISBN 84-932297-0-9.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2001).  Integrating e-commerce standards and initiatives in a multi-layered ontology.  En: "Seventeenth International Joint Conference on Artificial Intelligence, IJCAI'01", 04/08/2001 - 10/08/2001, Washington, USA. ISBN 1-55860-777-3.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2001).  Solving Integration Problems of e-commerce Standards and initiatives through ontological mappings.  En: "17th International Joint Conference on Artificial Intelligence (IJCAI'01)", 04/08/2001, Seattle, EEUU.    
+
+  Sánchez, A.; Bernardos, S. y López-Cima, A.  (2001).  Enseñanza de ELE a través de un sistema informático de análisis textual disponible en Internet.  En: "XII Congreso Internacional de la Asociación para la Enseñanza del Español como Lengua Extranjera", 2001, Valencia, Spain.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2000).  A roadmap to ontology specification languages.  En: "12th International Conference on Knowledge Engineering and Knowledge Management (EKAW’00)", October 2-6, 2000, Juan-les-Pins, French Riviera. ISBN 3-540-41119-4. pp. 80-96.    
+
+  Fernández-López, M.; Gómez-Pérez, A. y Rojas, MD.  (2000).  Ontology's crossed life cycles.  En: "12th International Conference on Knowledge Engineering and Knowledge Management EKAW00 in cooperation with the American Association for Artificial Intelligence (AAAI)", October 2000, Juan-les-Pins, France. ISBN 3-540-41119-4.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (2000).  Evaluating Knowledge Representation and Reasoning Capabilites of Ontology Specification Languages.  En: "ECAI'00 Workshop on Applications of Ontologies and Problem Solving Methods", 20/08/2000 - 25/08/2000, Berlin, Alemania.    
+
+  Leger, A.; Michel, G.; Barrett, P.; Gitton, S.; Gómez-Pérez, A.; Lehtola, A.; Mokkila, K.; Rodrigez, S.; Sallantin, J.; Varvarigou, T. y Vinesse, J.  (2000).  Ontology Domain Modeling Support for Multilingual Servicies in e-commerce: MKBEEM.  En: "14th European Conference on Artificial Intelligence (ECAI’00) Workshop Applications of Ontologies and Problem Solving Methods", 20-21 August 2000, Berlin, Germany.    
+
+  Aguado de Cea, G. y Pareja-Lora, A.  (2000).  A Competition Model for the Generation of Complementation Patterns in Machine Translations.   "International Journal of Translation", v. 12  (n. 1-2);   pp. 25-37.  ISSN 0970-9819.    
+
+  Arpirez, J.C.; Gómez-Pérez, A.; Lozano-Tello, A.; Andrade, HS. y Pinto, N.P.  (2000).  Reference Ontology and (ONTO)2 Agent: The Ontology Yellow pages.   "Knowlege and Information Systems", v. 2  (n. 4);   pp. 387-412.  ISSN 0219-1377.   https://doi.org/10.1007/PL00011649 <https://doi.org/10.1007/PL00011649>. 
+
+  Gómez-Pérez, A.; Moreno, A.; Pazos Sierra, Juan y Sierra-Alonso, A.  (2000).  Knowledge Maps: An Essential Technique for Conceptualization.   "Data & Knowledge Engineering. Special Issue on Conceptual Modelling", v. 33 ;   pp. 169-190.  ISSN 0169-023X.   https://doi.org/10.1016/S0169-023X(99)00050-6 <https://doi.org/10.1016/S0169-023X(99)00050-6>. 
+
+  Aguado de Cea, G.; Bañón, A.; Bateman, J.; Bernardos, S.; Fernández, M.; Gómez-Pérez, A.; Nieto, E.; Olalla, A.; Plaza, R. y Sánchez, A.  (1999).  Ontogeneration: Arquitectura basada en ontologías para la generación de textos en castellano.  En: "VII Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA)", 16-19 November 1999, Murcia, Spain. ISBN 931170-1-3.    
+
+  Fernández-López, M.  (1999).  Overview of methodologies for building ontologies.  En: "Workshop Ontologies and Problem-Solving Methods: Lessons Learned and Future Trends de la conferencia International Joint Conference for Artificial Intelligence (IJCAI’99)", August 1999, Stockholm, Sweden.    
+
+  Gómez-Pérez, A. y Benjamins, R.  (1999).  Overview of Knowledge Sharing and Reuse Components: Ontologies and Problem-Solving Methods.  En: "16th International Joint Conference on Artificial Intelligence (IJCAI’99) Workshop KRR5: Ontologies and Problem-Solving Methods: Lesson Learned and Future Trends", 2 August 1999, Stockholm, Sweden. ISBN 90-54-70-0825-8.    
+
+  Arpirez, J.C.; Gómez-Pérez, A.; Lozano-Tello, A. y Pinto, S.  (1999).  How to Find Suitable Ontologies Using an Ontology-based WWW Broker.  En: "Engineering Applications of Bio-Inspired Artificial Neural Networks", 2-4 July 1999. ISBN 3-540-66068-2.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (1999).  Direct and Inverse Translators between FLogic and Ontolingua in the context of ODE and the (KA)2 initiative: a case of study.  En: "International Workshop on Ontological Engineering on the Global Information Infrastructure", Mayo 1999, Dagstuhl Castle, Alemania. ISBN 9789054700869.    
+
+  Gómez-Pérez, A. y Rojas-Amaya, MD.  (1999).  Ontological Reengineering for Reuse.  En: "Knowledge Acquisition, Modeling and Management (EKAW99)", May 1999. ISBN 3-540-66044-5.    
+
+  Fernández López, Mariano; Gómez-Pérez, A.; Pazos Sierra, Alejandro y Pazos Sierra, Juan  (1999).  Building a Chemical Ontology using Methontology and the Ontology Design Environment.  Monografía (Otro).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, IEEE Intelligence Systems & Their Applications.    
+
+  Benjamins, R.; Fensel, D.; Decker, S. y Gómez-Pérez, A.  (1999).  (KA)2: Building Ontologies for the Internet: a Mid Term Report.   "International Journal of Human Computer Studies", v. 51 ;   pp. 687-712.  ISSN 1071-5819.    
+
+  Corcho, Oscar y Gómez-Pérez, A.  (1999).  Guidelines to Study Differences in Expressiveness between Ontology Specification Languages: A Case Of Study.  En: "12th Workshop on Knowledge Acquisition, Modeling and Management, KAW 1999", 16/10/1999 - 22/10/1999, Banff, Canada.    
+
+  Gómez-Pérez, A.  (1999).  Développement récents en matière de conception, de maintenance et d’utilisation des ontologies.   "Terminologies nouvelles", v. 19 ;   pp. 9-20.     
+
+  Gómez-Pérez, A.  (1999).  Evaluation of Taxonomic Knowledge in Ontologies and Knowledge Bases.  En: "12th Banff Knowledge Acquisition for Knowledge-Based Systems. KAW’99", 16-21 October 1999, Banff, Alberta, Canada.    
+
+  Gómez-Pérez, A.  (1999).  Ontological Engineering: A state of the Art.   "Expert Update: Knowledge Based Systems and Applied Artificial Intelligence", v. 2  (n. 3);   pp. 33-43.  ISSN 1465-4091.    
+
+  Gómez-Pérez, A. y Benjamins, R.  (1999).  Applications of Ontologies and Problem Solving Methods.   "AI Magazine", v. 20  (n. 1);   pp. 119-122.  ISSN 0738-4602.    
+
+  Pinto, H.S.; Gómez-Pérez, A. y Martins, J.P.  (1999).  Some Issues on Ontology Integration.  En: "16th International Joint Conference on Artificial Intelligence (IJCAI’99) Workshop: KRR5: Ontologies and Problem-Solving Methods: Lesson Learned and Future Trends", 2 August 1999, Stockholm, Sweden.    
+
+  Benjamins, R.; Fensel, D. y Gómez-Pérez, A.  (1998).  Knowledge Management through Ontologies.  En: "International Conference on Practical Aspects of Knowledge Management (PAKM-98)", 29-30 October 1998.    
+
+  Aguado de Cea, G.; Bañón, A.; Bateman, S.; Bernardos, S.; Fernández, M.; Gómez-Pérez, A.; Nieto, E.; Olalla, A.; Plaza, R. y Sánchez, A.  (1998).  ONTOGENERATION: Reusing Domain and Linguistic Ontologies for Spanish Text Generation.  En: "13th European Conference on Artificial Intelligence (ECAI’98)", 23-28 August 1998, Brighton, UK.    
+
+  Blázquez, Juan; Fernández, M.; García-Pinar, JM. y Gómez-Pérez, A.  (1998).  Building Ontologies at the Knowledge Level using the Ontology Design Environment.  En: "11th Banff Knowledge Acquisition for Knowledge-Based Systems Workshop (KAW’98)", 18-23 April 1998, Banff, Alberta, Canada.    
+
+  Aguado de Cea, G.  (1998).  Homo ludens-designing tomorrow's games.   "The European Network for Intelligent Information Interfaces en la revista i3magazine"  (n. 3);   pp. 8-10.  ISSN 1397-906-X.    
+
+  Azpírez, JC.; Gómez-Pérez, A.; Lozano-Tello, A. y Pinto, S.  (1998).  (ONTO)2 Agent: an Ontology-based WWW broker to select ontologies.  En: "13th European Conference on Artificial Intelligence (ECAI’98) Workshop Applications of Ontologies and Problems Solving Methods", 23-28 August 1998, Brighton, UK.    
+
+  Linares López, Carlos y Gómez-Pérez, A.  (1997).  BHFFA*: Un nuevo algoritmo admisible de búsqueda bidireccional.  En: "VII Conferencia de la Asociación Española para la Inteligencia Artificial", 12-14 November 1997, Malaga, Spain. ISBN 84-8498-765-5.    
+
+  Linares López, Carlos; Estévez Garrido, U.D.; Gómez-Pérez, A. y Sánchez Acera, L.M.  (1997).  GAMES: A new Scenario for Software and Knowledge Reuse.  En: "International Conference on Software Engineering and Knowledge Engineering (SEKE’97)", 17-20 June 1997, Madrid, Spain. ISBN 09641699-5-9.    
+
+  Fernández-López, M.; Gómez-Pérez, A. y Juristo, N.  (1997).  METHONTOLOGY: From Ontological Art Towards Ontological Engineering.  En: "AAAI-97 Spring Symposium Series", 24-26 March 1997, Stanford University, EEUU.    
+
+  Aguado de Cea, G.  (1997).  Software localization: problemas terminológicos y sociológicos.  En: "2ª Jornadas Internacionales de Terminología", 1997.    
+
+  Gómez-Pérez, A. y Montes, C.  (1997).  Enseñanza de Inteligencia Artificial e Ingeniería del Conocimiento.   "Revista Iberoamericana de Inteligencia Artificial", v. 3 ;   pp. 2-9.  ISSN 1137-3601.    
+
+  Aguado de Cea, G.  (1996).  La formación de formadores en Terminología.   "Terminómetro", v. La Ter ;   pp. 63-64.     
+
+  Gómez-Pérez, A.  (1996).  Towards a Framework to Verify Knowledge Sharing Technology.   "Expert Systems with Applications", v. 11  (n. 4);   pp. 519-529.  ISSN 0957-4174.    
+
+  Gómez-Pérez, A.; Fernández, M. y Vicente, A. de  (1996).  Towards a Method to Conceptualize Domain Ontologies.  En: "12th European Conference on Artificial Intelligence (ECAI’96)", 13/08/1996, Budapest, Rumanía.    
+
+  Gómez-Pérez, A.  (1995).  Some Ideas and Examples to Evaluate Ontologies.  En: "IEEE Conference on Artificial Intelligence for Applications (CAIA’95)", 20-23 February 1995, Los Ángeles, EEUU. ISBN 0-7803-2522-2.    
+
+  Alonso Amo, Fernando; Gómez-Pérez, A.; López Gómez, Genoveva y Montes, C.  (1995).  An Expert Systems for Homeopatic Glaucoma Treatment (SEHO).   "Expert Systems with Applications", v. 8  (n. 1);   pp. 89-99.  ISSN 0957-4174.    
+
+  Gómez-Pérez, A.  (1995).  Criteria to Verify Knowledge Sharing Technology.  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Gómez-Pérez, A. y Juristo, N.  (1994).  The Artificial Intelligence Course at the Faculty of Computer Science in the Polytechnic University of Madrid.  En: "AAAI-94 Fall Symposium Series", 4-6 November 1994.    
+
+  Aguado de Cea, G.  (1994).  Algunos ejemplos de polisemia y sinonimia en la terminología informática.  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>, Luxembourg.    
+
+  Gómez-Pérez, A.  (1994).  From Knowledge Based Systems to Knowledge Sharing Technology: Evaluation and Assessment.  Monografía (Informe Técnico).  Facultad de Informática (UPM) [antigua denominación] <http://oa.upm.es/view/institution/Informatica/>.    
+
+  Aguado de Cea, G.  (1990).  Comando, instrucción, sentencia: ¿Sinónimos en el campo informático?.  En: "III Encuentros Complutenses en torno a la Traducción", 2-6 April 1990. ISBN 84-7491-468-X.    
+
+  Aguado de Cea, G.  (1986).  El lexema ware en el campo informático.  En: "Congreso Nacional de AEDEAN", 16-19 December 1986.    
+
